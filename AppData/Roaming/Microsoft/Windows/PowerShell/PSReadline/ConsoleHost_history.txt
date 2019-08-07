@@ -1,0 +1,8 @@
+>Add-VpnConnection -Name "CSC RedNet VPN" -ServerAddress vpn.cyberherts.uk -TunnelType l2TP -L2tpPsk "SEW97!Y6YQTN26;3A2SPNQ3KR2CA5M" -EncryptionLevel Required -AuthenticationMethod MSChapv2 -SplitTunneling
+>Add-VpnConnection -Name "CSC RedNet VPN" -ServerAddress vpn.cyberherts.uk -TunnelType l2TP -L2tpPsk "SEW97!Y6YQTN26;3A2SPNQ3KR2CA5M" -EncryptionLevel Required -AuthenticationMethod MSChapv2 -SplitTunneling\
+Add-VpnConnection -Name "CSC RedNet VPN" -ServerAddress vpn.cyberherts.uk -TunnelType l2TP -L2tpPsk "SEW97!Y6YQTN26;3A2SPNQ3KR2CA5M" -EncryptionLevel Required -AuthenticationMethod MSChapv2 -SplitTunneling
+Y
+Add-VpnConnection -Name "CSC RedNet VPN" -ServerAddress vpn.cyberherts.uk -TunnelType l2TP -L2tpPsk "SEW97!Y6YQTN26;3A2SPNQ3KR2CA5M" -EncryptionLevel Required -AuthenticationMethod MSChapv2 -SplitTunneling
+Add-VpnConnection -Name "CSC RedNet VPN" -ServerAddress vpn.cyberherts.uk -TunnelType l2TP -L2tpPsk "SEW97!Y6YQTN26;3A2SPNQ3KR2CA5M" -EncryptionLevel Required -AuthenticationMethod MSChapv2 -SplitTunneling
+`
+Add-VpnConnection -Name "CSC RedNet VPN" -ServerAddress vpn.cyberherts.uk -TunnelType l2TP -L2tpPsk "SEW97!Y6YQTN26;3A2SPNQ3KR2CA5M" -EncryptionLevel Required -AuthenticationMethod MSChapv2 -SplitTunneling

@@ -1,0 +1,12 @@
+update_url:http://btinstall-artifacts.bittorrent.com/helper/helper.btinstall
+update_url_btinstall:http://btinstall-artifacts.bittorrent.com/helper/helper.btinstall
+publisher:BitTorrent Inc.
+release_date:11/07/2019
+version:230
+description:Helper
+product_code:{A284096A-FA3F-4008-B977-D29EC2503BEF}
+signer:BitTorrent Inc.
+install_dir:helper
+pretty_name:helper
+process_name:helper.exe
+

@@ -1,0 +1,110 @@
+06/12/2019 17:46:35 Checking for existence of Branding Active Setup stub...
+06/12/2019 17:46:35 InternetExplorerBrandGUID didn't exist: Branding component not installed
+06/12/2019 17:46:35 Inf Version is set to "11,00,17134,48".
+06/12/2019 17:46:35 Branding conditions failed. Applying only default branding.
+
+06/12/2019 17:46:35     COM initialized with S_FALSE success code.
+
+06/12/2019 17:46:35 Branding Internet Explorer...
+06/12/2019 17:46:35 Command line is "/mode:isp /peruser".
+
+06/12/2019 17:46:35 Global branding settings are:
+06/12/2019 17:46:35     Context is (0x01C00008) "Internet Content Providers, running from per-user stub";
+06/12/2019 17:46:35     Settings file is        "C:\Program Files (x86)\Internet Explorer\Signup\install.ins";
+06/12/2019 17:46:35     Target folder path is   "C:\Program Files (x86)\Internet Explorer\Signup".
+06/12/2019 17:46:35 Done.
+
+06/12/2019 17:46:35     About to clear previous branding...
+06/12/2019 17:46:35     Done.
+
+06/12/2019 17:46:35     Processing migration of old settings...
+06/12/2019 17:46:35     Done.
+
+06/12/2019 17:46:35     Processing wininet setup...
+06/12/2019 17:46:35     Done.
+
+06/12/2019 17:46:35     Processing deletion of connection settings...
+06/12/2019 17:46:35     Done.
+
+06/12/2019 17:46:35     Processing zones HKCU settings...
+06/12/2019 17:46:35     Done.
+
+06/12/2019 17:46:35     Processing local machine policies and restrictions...
+06/12/2019 17:46:35     Done.
+
+06/12/2019 17:46:35     Processing current user policies and restrictions...
+06/12/2019 17:46:35     Done.
+
+06/12/2019 17:46:35     Processing legacy policies and restrictions...
+06/12/2019 17:46:35     Done.
+
+06/12/2019 17:46:35     Processing general customizations...
+06/12/2019 17:46:35     Done.
+
+06/12/2019 17:46:35     Processing Help->About customization...
+06/12/2019 17:46:35     Done.
+
+06/12/2019 17:46:35     Processing browser toolbar buttons...
+06/12/2019 17:46:35     Done.
+
+06/12/2019 17:46:35     Processing root certificates...
+06/12/2019 17:46:35     Done.
+
+06/12/2019 17:46:35     Processing default favorites and/or quick links...
+06/12/2019 17:46:35     Creating separate thread for processing default favorites...
+
+06/12/2019 17:46:35     COM initialized with S_OK success code.
+06/12/2019 17:46:35         Determining favorites attributes...
+06/12/2019 17:46:35             <Favorites> folder location is "C:\Users\SAILUCKY\Favorites".
+06/12/2019 17:46:35         marked as Low Integrity,
+06/12/2019 17:46:35         Title     - "Bing",
+06/12/2019 17:46:35         URL       - "http://go.microsoft.com/fwlink/p/?LinkId=255142",
+06/12/2019 17:46:35         Icon file - "%ProgramFiles%\Internet Explorer\Images\bing.ico",
+06/12/2019 17:46:35         not marked IEAK created,
+06/12/2019 17:46:35         Done.
+06/12/2019 17:46:35     Done.
+
+06/12/2019 17:46:35     Processing deletion of favorites and/or quick links...
+06/12/2019 17:46:35     Done.
+
+06/12/2019 17:46:35     Processing favorites...
+06/12/2019 17:46:35     Done.
+
+06/12/2019 17:46:35     Processing ordering of favorites...
+06/12/2019 17:46:35     Done.
+
+06/12/2019 17:46:35     Processing quick links...
+06/12/2019 17:46:35     Done.
+
+06/12/2019 17:46:35     Processing ordering of quick links...
+06/12/2019 17:46:35     Done.
+
+06/12/2019 17:46:35     Processing connection settings...
+06/12/2019 17:46:35     Done.
+
+06/12/2019 17:46:35     Processing TrustedPublisherLockdown restriction...
+06/12/2019 17:46:35     Done.
+
+06/12/2019 17:46:35     Creating feeds...
+06/12/2019 17:46:35     Done.
+
+06/12/2019 17:46:35     Creating start pages...
+06/12/2019 17:46:35     Done.
+
+06/12/2019 17:46:35     Creating search providers...
+06/12/2019 17:46:35     Done.
+
+06/12/2019 17:46:35     Installing Activities...
+06/12/2019 17:46:35     Done.
+
+06/12/2019 17:46:35     Installing Unattend Favorite bar items...
+06/12/2019 17:46:35     Done.
+
+06/12/2019 17:46:35     Installing Unattend Activites...
+06/12/2019 17:46:35     Done.
+
+06/12/2019 17:46:35     Refreshing browser settings...
+06/12/2019 17:46:35     Broadcasting "Windows settings change" to all top level windows...
+06/12/2019 17:46:35     Done.
+06/12/2019 17:46:35 Done.
+06/12/2019 17:46:35 Done.

@@ -1,0 +1,17 @@
+08/05/2019 01:44:06.73	Information	Unable to read file DataMartConfig.json. Exception: One or more errors occurred. (The system cannot find the file specified. (Exception from HRESULT: 0x80070002))
+08/05/2019 01:44:07.77	Information	HResult: -2146233088
+Message: One or more errors occurred. (The system cannot find the file specified. (Exception from HRESULT: 0x80070002))
+StackTrace:    at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean) + 0x2d
+   at DataMartServiceAPI.DataMartConfigurationFactory.GetDataMartConfiguration() + 0xfb
+
+08/05/2019 01:44:07.78	Information	Discovery Notification Task started. Checking conditions...
+08/05/2019 01:44:07.78	Information	Unable to read file DataMartConfig.json. Exception: One or more errors occurred. (The system cannot find the file specified. (Exception from HRESULT: 0x80070002))
+08/05/2019 01:44:07.78	Information	HResult: -2146233088
+Message: One or more errors occurred. (The system cannot find the file specified. (Exception from HRESULT: 0x80070002))
+StackTrace:    at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean) + 0x2d
+   at DataMartServiceAPI.DataMartConfigurationFactory.GetDataMartConfiguration() + 0xfb
+
+08/05/2019 01:44:07.84	Information	Notification condition NoModem
+08/05/2019 01:44:07.84	Information	Existing registraion with name OneConnect.DiscoveryNotificationTask was found and replaced
+08/05/2019 01:44:07.84	Information	Unregistering task with name: OneConnect.DiscoveryNotificationTask
+08/05/2019 01:44:07.84	Information	Registered task with name: OneConnect.DiscoveryNotificationTask

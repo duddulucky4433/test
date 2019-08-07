@@ -1,0 +1,28 @@
+﻿<html>
+<head>
+<meta charset='utf-8'>
+<title>{{title_name}}</title>
+</head>
+ 
+<h1 align=center>{{file_name}}</h1>
+<body>
+{{#element_contact_deleted}}
+<table align="center" style="font-family:Arial;word-break:break-all;word-wrap:break-word; font-size:14px;color:#484848;">
+<tr align="center"><th bgcolor="#D9EAF7" width="124" height="100" style="border-top:rgb(255,255,255) 0px groove; border-bottom:rgb(255,255,255) 1px groove; border-left: rgb(255,255,255) 0px groove; border-right: rgb(255,255,255) 1px groove"><img src="Image/default_contact.png"></th><th bgcolor="#D9EAF7" font face="arial" width="464" height="100" style="border-top:rgb(255,255,255) 0px groove; border-bottom:rgb(255,255,255) 1px groove; border-right: rgb(255,255,255) 1px groove"><img src="Image/DeleteFlag.png"><font color="#FF6100"><font size="6">{{contact_name}}</Font><br><font size="2">{{contact_name_other}}</Font></font></th></tr>
+{{#element_type}}
+<tr align="left"><th bgcolor="#EEF5FA" width="124" height="39" style="border-left: rgb(255,255,255) 0px groove; border-bottom:rgb(255,255,255) 1px groove; border-right: rgb(255,255,255) 1px groove"><font color="#FF6100">{{contact_type}}&nbsp;</font></th><th bgcolor="#EEF5FA" width="464" height="39" style="border-bottom:rgb(255,255,255) 1px groove; border-right: rgb(255,255,255) 1px groove"><font color="#FF6100">{{contact_value}}&nbsp;</font></th></tr>
+{{/element_type}}
+</table>
+<p /><p />
+{{/element_contact_deleted}}
+{{#element_contact}}
+<table align="center" style="font-family:Arial;word-break:break-all;word-wrap:break-word; font-size:14px;color:#484848;">
+<tr align="center"><th bgcolor="#D9EAF7" width="124" height="100" style="border-top:rgb(255,255,255) 0px groove; border-bottom:rgb(255,255,255) 1px groove; border-left: rgb(255,255,255) 0px groove; border-right: rgb(255,255,255) 1px groove"><img src={{contact_icon_name}} width="56" height="56"></th><th bgcolor="#D9EAF7" font face="arial" width="464" height="100" style="border-top:rgb(255,255,255) 0px groove; border-bottom:rgb(255,255,255) 1px groove; border-right: rgb(255,255,255) 1px groove"><font color="#77B9ED"><font size="6">{{contact_name}}</Font><br><font size="2">{{contact_name_other}}</Font></font></th></tr>
+{{#element_type}}
+<tr align="left"><th bgcolor="#EEF5FA" width="124" height="39" style="border-left: rgb(255,255,255) 0px groove; border-bottom:rgb(255,255,255) 1px groove; border-right: rgb(255,255,255) 1px groove"><font color="#474747">{{contact_type}}&nbsp;</font></th><th bgcolor="#EEF5FA" width="464" height="39" style="border-bottom:rgb(255,255,255) 1px groove; border-right: rgb(255,255,255) 1px groove"><font color="#474747">{{contact_value}}&nbsp;</font></th></tr>
+{{/element_type}}
+</table>
+<p /><p />
+{{/element_contact}}
+</body>
+</html>

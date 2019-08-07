@@ -1,0 +1,22 @@
+04/02/2019 11:59:48.45	Information	Key	StopCheckingDateUTC	Value	10/25/2018 8:06:07 PM +01:00	Converted	True	
+04/02/2019 11:59:48.45	Information	Key	NotificationState	Value	0	Converted	True	
+04/02/2019 11:59:48.47	Information	Key	LocalStorageVersion	Value	{"IsBoxed":true,"Value":0}	Converted	False	
+04/02/2019 11:59:48.48	Information	Key	HasForegroundRun	Value	False	Converted	True	
+04/02/2019 11:59:48.49	Information	LocalSettings version 1 conversion complete
+04/02/2019 11:59:51.43	Information	Unable to read file DataMartConfig.json. Exception: One or more errors occurred. (The system cannot find the file specified. (Exception from HRESULT: 0x80070002))
+04/02/2019 11:59:54.46	Information	HResult: -2146233088
+Message: One or more errors occurred. (The system cannot find the file specified. (Exception from HRESULT: 0x80070002))
+StackTrace:    at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean) + 0x2d
+   at DataMartServiceAPI.DataMartConfigurationFactory.GetDataMartConfiguration() + 0x233
+
+04/02/2019 11:59:54.65	Information	Unable to read file DataMartConfig.json. Exception: One or more errors occurred. (The system cannot find the file specified. (Exception from HRESULT: 0x80070002))
+04/02/2019 11:59:54.65	Information	HResult: -2146233088
+Message: One or more errors occurred. (The system cannot find the file specified. (Exception from HRESULT: 0x80070002))
+StackTrace:    at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean) + 0x2d
+   at DataMartServiceAPI.DataMartConfigurationFactory.GetDataMartConfiguration() + 0x233
+
+04/02/2019 11:59:54.65	Information	Setting up Discovery notification from post installation task.
+04/02/2019 11:59:56.03	Information	Existing registraion with name OneConnect.DisableNotificationTask was found and replaced
+04/02/2019 11:59:56.04	Information	Registered task with name: OneConnect.DisableNotificationTask
+04/02/2019 11:59:57.32	Information	Existing registraion with name OneConnect.DiscoveryNotificationTask was found and replaced
+04/02/2019 11:59:57.32	Information	Registered task with name: OneConnect.DiscoveryNotificationTask

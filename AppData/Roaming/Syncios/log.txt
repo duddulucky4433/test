@@ -1,0 +1,60 @@
+2019-07-19 19:07:29.760 syncios.exe[8264:2dc] AppName:Syncios,Version:6.6.1
+2019-07-19 19:07:29.762 syncios.exe[8264:2dc] function:CMainWnd::CheckSpaceAndWritable file name;C:\Users\SAILUCKY\AppData\Local\Temp\
+2019-07-19 19:07:29.764 syncios.exe[8264:2dc] FileSize:50.00 MB,Freesize:127.72 GB
+2019-07-19 19:07:29.765 syncios.exe[8264:2dc] CXSCREEN:1920,CYSCREEN:1020,g_fZoomFactor:96
+2019-07-19 19:07:29.766 syncios.exe[8264:2dc] CMainWnd::GetImageFromFolder ERROR
+2019-07-19 19:07:29.854 syncios.exe[8264:2dc] GetMainMonitorDPI:144
+2019-07-19 19:07:29.948 syncios.exe[8264:2dc] found device whitelist:'C:\Program Files (x86)\Anvsoft\Syncios\device_whitelist.txt'
+2019-07-19 19:07:29.978 syncios.exe[8264:1940] ignored device vid:0x13D3, pid:0x5A07, type:0, Unknown, manufacturer:(null), product:(null), serialNumber:0x0001, isADBDebugging:0, isFastboot:0, Connected
+2019-07-19 19:07:29.979 syncios.exe[8264:1940] 	deviceClass:0xef, deviceSubClas:0x2, deviceProtocol:0x1, nConfigurations:0x1, isSelfPowered:0
+2019-07-19 19:07:29.979 syncios.exe[8264:1940] 	isIgnoredByIds:0, isAndroidSupportedDevice:0, isWhitelistDevice:0
+2019-07-19 19:07:29.979 syncios.exe[8264:1940] 	[0] interfaceClass:0xe, interfaceSubClas:0x1, interfaceProtocol:0x0
+2019-07-19 19:07:29.979 syncios.exe[8264:1940] 	[1] interfaceClass:0xe, interfaceSubClas:0x2, interfaceProtocol:0x0
+2019-07-19 19:07:29.979 syncios.exe[8264:1940] 	[2] interfaceClass:0xe, interfaceSubClas:0x2, interfaceProtocol:0x0
+2019-07-19 19:07:29.979 syncios.exe[8264:1940] 	[3] interfaceClass:0xe, interfaceSubClas:0x2, interfaceProtocol:0x0
+2019-07-19 19:07:29.979 syncios.exe[8264:1940] 	[4] interfaceClass:0xe, interfaceSubClas:0x2, interfaceProtocol:0x0
+2019-07-19 19:07:29.979 syncios.exe[8264:1940] 	[5] interfaceClass:0xe, interfaceSubClas:0x2, interfaceProtocol:0x0
+2019-07-19 19:07:29.980 syncios.exe[8264:1940] 	[6] interfaceClass:0xe, interfaceSubClas:0x2, interfaceProtocol:0x0
+2019-07-19 19:07:29.980 syncios.exe[8264:1940] 	[7] interfaceClass:0xe, interfaceSubClas:0x2, interfaceProtocol:0x0
+2019-07-19 19:07:29.980 syncios.exe[8264:1940] 	[8] interfaceClass:0xe, interfaceSubClas:0x2, interfaceProtocol:0x0
+2019-07-19 19:07:29.980 syncios.exe[8264:1940] ignored device vid:0x13D3, pid:0x3526, type:0, Unknown, manufacturer:(null), product:(null), serialNumber:00e04c000001, isADBDebugging:0, isFastboot:0, Connected
+2019-07-19 19:07:29.980 syncios.exe[8264:1940] 	deviceClass:0xe0, deviceSubClas:0x1, deviceProtocol:0x1, nConfigurations:0x1, isSelfPowered:1
+2019-07-19 19:07:29.980 syncios.exe[8264:1940] 	isIgnoredByIds:0, isAndroidSupportedDevice:0, isWhitelistDevice:0
+2019-07-19 19:07:29.980 syncios.exe[8264:1940] 	[0] interfaceClass:0xe0, interfaceSubClas:0x1, interfaceProtocol:0x1
+2019-07-19 19:07:29.980 syncios.exe[8264:1940] 	[1] interfaceClass:0xe0, interfaceSubClas:0x1, interfaceProtocol:0x1
+2019-07-19 19:07:29.980 syncios.exe[8264:1940] 	[2] interfaceClass:0xe0, interfaceSubClas:0x1, interfaceProtocol:0x1
+2019-07-19 19:07:29.980 syncios.exe[8264:1940] 	[3] interfaceClass:0xe0, interfaceSubClas:0x1, interfaceProtocol:0x1
+2019-07-19 19:07:29.980 syncios.exe[8264:1940] 	[4] interfaceClass:0xe0, interfaceSubClas:0x1, interfaceProtocol:0x1
+2019-07-19 19:07:29.980 syncios.exe[8264:1940] 	[5] interfaceClass:0xe0, interfaceSubClas:0x1, interfaceProtocol:0x1
+2019-07-19 19:07:29.981 syncios.exe[8264:1940] 	[6] interfaceClass:0xe0, interfaceSubClas:0x1, interfaceProtocol:0x1
+2019-07-19 19:07:45.152 syncios.exe[8264:2dc] \\?\USB#VID_05AC&PID_12A8#e02332ff4024eb7d61ed98250ebbb03b9ae8027f#{a5dcbf10-6530-11d2-901f-00c04fb951ed}
+2019-07-19 19:07:45.156 syncios.exe[8264:32dc] device vid:0x5AC, pid:0x12A8, type:2, IOS, manufacturer:Apple Inc., product:iPhone, serialNumber:e02332ff4024eb7d61ed98250ebbb03b9ae8027f, isADBDebugging:0, isFastboot:0, Connected
+2019-07-19 19:07:45.157 syncios.exe[8264:32dc] 	deviceClass:0x0, deviceSubClas:0x0, deviceProtocol:0x0, nConfigurations:0x4, isSelfPowered:1
+2019-07-19 19:07:45.157 syncios.exe[8264:32dc] 	isIgnoredByIds:1, isAndroidSupportedDevice:0, isWhitelistDevice:1
+2019-07-19 19:07:45.157 syncios.exe[8264:32dc] 	[0] interfaceClass:0x6, interfaceSubClas:0x1, interfaceProtocol:0x1
+2019-07-19 19:07:45.158 syncios.exe[8264:2dc] AMDS:12.1.0.25, AAS:7.2.0.0, AAS64:7.2.0.0
+2019-07-19 19:07:45.158 syncios.exe[8264:2dc] begin init ios library
+2019-07-19 19:07:45.158 syncios.exe[8264:2dc] OS Version: Windows 10+, Architecture:x64, IsWow64:1
+2019-07-19 19:07:45.162 syncios.exe[8264:2dc] found 64bits itunes installed, path:'C:\Program Files\iTunes\iTunes.exe', version:12.9.2.6
+2019-07-19 19:07:45.464 syncios.exe[8264:2dc] using internal 32bits iTunes
+2019-07-19 19:07:46.424 syncios.exe[8264:2dc] internal:'C:\Program Files (x86)\Anvsoft\Syncios\Driver32\iTunes.dll', version:12.5.5.5
+2019-07-19 19:07:46.152 syncios.exe[8264:2dc] internal:'C:\Program Files (x86)\Anvsoft\Syncios\Driver32\iTunesMobileDevice.dll', version:988.200.77.1
+2019-07-19 19:07:46.153 syncios.exe[8264:2dc] loading C:\Program Files (x86)\Common Files\Apple\Mobile Device Support\AirTrafficHost.dll, version:4016.200.4.4
+2019-07-19 19:07:49.438 syncios.exe[8264:2dc] end init ios library:v12.1.6, support version is 12
+2019-07-19 19:07:49.439 syncios.exe[8264:2dc] Supported IOS Version:12
+
+2019-07-19 19:07:49.451 syncios.exe[8264:2dc] SubscribeDeviceNotification error:0
+2019-07-19 19:07:49.453 syncios.exe[8264:5078] Device:e02332ff4024eb7d61ed98250ebbb03b9ae8027f, 042EE320 USB Connected, msg:0x1
+2019-07-19 19:07:49.578 syncios.exe[8264:5078] DeviceConnected:70803688
+
+2019-07-19 19:07:51.616 syncios.exe[8264:5078] load device info, name = iPhone, version = 12.3.1, serial = C39QMH5PGRX4, uuid = e02332ff4024eb7d61ed98250ebbb03b9ae8027f, type = 133, product type = iPhone8,2, isJailbreak = 0
+2019-07-19 19:07:51.616 syncios.exe[8264:5078] icloud status bookmark:1, contact:1, notes:1; findMyIPhone:1, iTunesBackup WillEncrypt:1 RequiresEncryption:0, prohibitAppInstall:0, prohibitAppDelete:0, iTunesSetupComplete:1, timeIntervalSince1970:1563559803.824278
+2019-07-19 19:07:51.616 syncios.exe[8264:5078] totalSystemAvailable:0 Bytes, totalSystemCapacity:4.03 GB, totalDataAvailable:3.17 GB, totalDataCapacity:55.57 GB, batteryCurrentCapacity:38
+2019-07-19 19:07:51.616 syncios.exe[8264:5078] photo formatId:4035, original width:1536, height:1536, render width:1536, height:1536, minimumSize:1536, preferredLarge:2048, maxLarge:4096
+2019-07-19 19:08:17.101 syncios.exe[8264:2dc] ID_BUTTON_TOOLBOX_FILE_SYSTEM
+2019-07-19 19:08:17.297 syncios.exe[8264:2dc] open entire ios filesystem directory or null path?, path:
+2019-07-19 19:08:30.865 syncios.exe[8264:2dc] ID_BUTTON_TOOLBOX_REALTIME_LOG
+2019-07-19 19:09:05.178 syncios.exe[8264:2dc] ID_BUTTON_TOOLBOX_FILE_SYSTEM
+2019-07-19 19:09:05.369 syncios.exe[8264:2dc] open entire ios filesystem directory or null path?, path:
+2019-07-19 19:09:14.349 syncios.exe[8264:2dc] ID_BUTTON_TOOLBOX_RECOVERY
+2019-07-19 19:10:15.681 syncios.exe[8264:1940] DeviceNotifier child process devicenotifier exit, ret:0x0

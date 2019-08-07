@@ -1,0 +1,12 @@
+10/21/2018 12:15:11.46	Information	Unable to read file DataMartConfig.json. Exception: AggregateException_ctor_DefaultMessage (The system cannot find the file specified. (Excep_FromHResult 0x80070002))
+10/21/2018 12:15:11.47	Information	HResult: -2146233088
+Message: AggregateException_ctor_DefaultMessage (The system cannot find the file specified. (Excep_FromHResult 0x80070002))
+StackTrace:    at SharedLibrary!<BaseAddress>+0x4ed13d
+   at DataMartServiceAPI.DataMartConfigurationFactory.GetDataMartConfiguration()
+10/21/2018 12:15:11.49	Information	Unable to read file DataMartConfig.json. Exception: AggregateException_ctor_DefaultMessage (The system cannot find the file specified. (Excep_FromHResult 0x80070002))
+10/21/2018 12:15:11.49	Information	HResult: -2146233088
+Message: AggregateException_ctor_DefaultMessage (The system cannot find the file specified. (Excep_FromHResult 0x80070002))
+StackTrace:    at SharedLibrary!<BaseAddress>+0x4ed13d
+   at DataMartServiceAPI.DataMartConfigurationFactory.GetDataMartConfiguration()
+10/21/2018 12:15:11.49	Information	Setting up Discovery notification from post installation task.
+10/21/2018 12:15:11.53	Information	Existing registraion with name OneConnect.DisableNotificationTask was found and replaced

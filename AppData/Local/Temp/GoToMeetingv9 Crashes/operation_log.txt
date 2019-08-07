@@ -1,0 +1,275 @@
+[16776:208:0806/021742.531:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=http://GoToMeetingv9_electron.bugsplat.com/post/bp/crash/postBP.php --application-name=GoToMeetingv9 "--crashes-directory=C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes" --v=1]
+[16776:208:0806/021742.531:VERBOSE1:crash_service.cc(142)] window handle is 00020472
+[16776:208:0806/021742.531:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\GoToMeetingv9 Crash Service
+dumps at C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes
+[16776:208:0806/021742.531:VERBOSE1:crash_service.cc(288)] checkpoint is C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes\crash_checkpoint.txt
+server is http://GoToMeetingv9_electron.bugsplat.com/post/bp/crash/postBP.php
+maximum 128 reports/day
+reporter is electron-crash-service
+[16776:208:0806/021742.531:VERBOSE1:crash_service_main.cc(94)] Ready to process crash requests
+[16776:2412:0806/021742.531:VERBOSE1:crash_service.cc(317)] client start. pid = 17488
+[16776:2412:0806/021905.130:VERBOSE1:crash_service.cc(317)] client start. pid = 14852
+[14900:2268:0806/021905.158:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=http://GoToMeetingv9_electron.bugsplat.com/post/bp/crash/postBP.php --application-name=GoToMeetingv9 "--crashes-directory=C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes" --v=1]
+[14900:2268:0806/021905.202:VERBOSE1:crash_service.cc(142)] window handle is 0008025C
+[14900:2268:0806/021905.202:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\GoToMeetingv9 Crash Service
+dumps at C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes
+[14900:2268:0806/021905.202:VERBOSE1:crash_service.cc(288)] checkpoint is C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes\crash_checkpoint.txt
+server is http://GoToMeetingv9_electron.bugsplat.com/post/bp/crash/postBP.php
+maximum 128 reports/day
+reporter is electron-crash-service
+[14900:2268:0806/021905.202:ERROR:crash_service.cc(295)] could not start dumper
+[16776:13436:0806/021905.270:VERBOSE1:crash_service.cc(325)] client end. pid = 14852
+[16776:2412:0806/023236.809:VERBOSE1:crash_service.cc(317)] client start. pid = 13536
+[13152:11812:0806/023236.893:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=http://GoToMeetingv9_electron.bugsplat.com/post/bp/crash/postBP.php --application-name=GoToMeetingv9 "--crashes-directory=C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes" --v=1]
+[13152:11812:0806/023236.913:VERBOSE1:crash_service.cc(142)] window handle is 0002056C
+[13152:11812:0806/023236.913:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\GoToMeetingv9 Crash Service
+dumps at C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes
+[13152:11812:0806/023236.913:VERBOSE1:crash_service.cc(288)] checkpoint is C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes\crash_checkpoint.txt
+server is http://GoToMeetingv9_electron.bugsplat.com/post/bp/crash/postBP.php
+maximum 128 reports/day
+reporter is electron-crash-service
+[13152:11812:0806/023236.913:ERROR:crash_service.cc(295)] could not start dumper
+[16776:6756:0806/023236.961:VERBOSE1:crash_service.cc(325)] client end. pid = 13536
+[16776:6756:0806/023255.794:VERBOSE1:crash_service.cc(325)] client end. pid = 17488
+[16776:6756:0806/023256.810:VERBOSE1:crash_service.cc(346)] zero clients. exiting
+[16776:208:0806/023256.810:VERBOSE1:crash_service.cc(486)] session ending..
+[16776:208:0806/023256.873:VERBOSE1:crash_service.cc(491)] clients connected :3
+clients terminated :3
+dumps serviced :0
+dumps reported :0
+[16776:208:0806/023256.873:VERBOSE1:crash_service_main.cc(99)] Session end. return code is 0
+[18800:1920:0806/023258.072:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=http://GoToMeetingv9_electron.bugsplat.com/post/bp/crash/postBP.php --application-name=GoToMeetingv9 "--crashes-directory=C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes" --v=1]
+[18800:1920:0806/023258.072:VERBOSE1:crash_service.cc(142)] window handle is 00030472
+[18800:1920:0806/023258.072:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\GoToMeetingv9 Crash Service
+dumps at C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes
+[18800:1920:0806/023258.072:VERBOSE1:crash_service.cc(288)] checkpoint is C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes\crash_checkpoint.txt
+server is http://GoToMeetingv9_electron.bugsplat.com/post/bp/crash/postBP.php
+maximum 128 reports/day
+reporter is electron-crash-service
+[18800:1920:0806/023258.072:VERBOSE1:crash_service_main.cc(94)] Ready to process crash requests
+[18800:18884:0806/023258.072:VERBOSE1:crash_service.cc(317)] client start. pid = 4776
+[18800:18884:0806/023258.072:VERBOSE1:crash_service.cc(317)] client start. pid = 19188
+[18800:18884:0806/023258.103:VERBOSE1:crash_service.cc(317)] client start. pid = 17736
+[9680:3048:0806/023258.119:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=http://GoToMeetingv9_electron.bugsplat.com/post/bp/crash/postBP.php --application-name=GoToMeetingv9 "--crashes-directory=C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes" --v=1]
+[9680:3048:0806/023258.135:VERBOSE1:crash_service.cc(142)] window handle is 00040474
+[9680:3048:0806/023258.135:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\GoToMeetingv9 Crash Service
+dumps at C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes
+[9680:3048:0806/023258.135:VERBOSE1:crash_service.cc(288)] checkpoint is C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes\crash_checkpoint.txt
+server is http://GoToMeetingv9_electron.bugsplat.com/post/bp/crash/postBP.php
+maximum 128 reports/day
+reporter is electron-crash-service
+[9680:3048:0806/023258.135:ERROR:crash_service.cc(295)] could not start dumper
+[15312:18828:0806/023258.150:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=http://GoToMeetingv9_electron.bugsplat.com/post/bp/crash/postBP.php --application-name=GoToMeetingv9 "--crashes-directory=C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes" --v=1]
+[15312:18828:0806/023258.166:VERBOSE1:crash_service.cc(142)] window handle is 0005046E
+[15312:18828:0806/023258.166:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\GoToMeetingv9 Crash Service
+dumps at C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes
+[15312:18828:0806/023258.166:VERBOSE1:crash_service.cc(288)] checkpoint is C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes\crash_checkpoint.txt
+server is http://GoToMeetingv9_electron.bugsplat.com/post/bp/crash/postBP.php
+maximum 128 reports/day
+reporter is electron-crash-service
+[15312:18828:0806/023258.166:ERROR:crash_service.cc(295)] could not start dumper
+[18800:16704:0806/023258.310:VERBOSE1:crash_service.cc(325)] client end. pid = 19188
+[18800:16704:0806/023258.326:VERBOSE1:crash_service.cc(325)] client end. pid = 17736
+[18800:16704:0806/023302.588:VERBOSE1:crash_service.cc(325)] client end. pid = 4776
+[18800:16704:0806/023303.606:VERBOSE1:crash_service.cc(346)] zero clients. exiting
+[18800:1920:0806/023303.606:VERBOSE1:crash_service.cc(486)] session ending..
+[18800:1920:0806/023303.606:VERBOSE1:crash_service.cc(491)] clients connected :3
+clients terminated :3
+dumps serviced :0
+dumps reported :0
+[18800:1920:0806/023303.606:VERBOSE1:crash_service_main.cc(99)] Session end. return code is 0
+[13804:4220:0806/023318.634:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=http://GoToMeetingv9_electron.bugsplat.com/post/bp/crash/postBP.php --application-name=GoToMeetingv9 "--crashes-directory=C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes" --v=1]
+[13804:4220:0806/023318.650:VERBOSE1:crash_service.cc(142)] window handle is 0005046C
+[13804:4220:0806/023318.650:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\GoToMeetingv9 Crash Service
+dumps at C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes
+[13804:4220:0806/023318.650:VERBOSE1:crash_service.cc(288)] checkpoint is C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes\crash_checkpoint.txt
+server is http://GoToMeetingv9_electron.bugsplat.com/post/bp/crash/postBP.php
+maximum 128 reports/day
+reporter is electron-crash-service
+[13804:4220:0806/023318.650:VERBOSE1:crash_service_main.cc(94)] Ready to process crash requests
+[13804:13456:0806/023318.650:VERBOSE1:crash_service.cc(317)] client start. pid = 3476
+[13804:14508:0806/023550.066:VERBOSE1:crash_service.cc(325)] client end. pid = 3476
+[13804:14508:0806/023551.071:VERBOSE1:crash_service.cc(346)] zero clients. exiting
+[13804:4220:0806/023551.071:VERBOSE1:crash_service.cc(486)] session ending..
+[13804:4220:0806/023551.071:VERBOSE1:crash_service.cc(491)] clients connected :1
+clients terminated :1
+dumps serviced :0
+dumps reported :0
+[13804:4220:0806/023551.071:VERBOSE1:crash_service_main.cc(99)] Session end. return code is 0
+[17536:17484:0806/023551.890:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=http://GoToMeetingv9_electron.bugsplat.com/post/bp/crash/postBP.php --application-name=GoToMeetingv9 "--crashes-directory=C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes" --v=1]
+[17536:17484:0806/023551.894:VERBOSE1:crash_service.cc(142)] window handle is 000804DE
+[17536:17484:0806/023551.894:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\GoToMeetingv9 Crash Service
+dumps at C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes
+[17536:17484:0806/023551.894:VERBOSE1:crash_service.cc(288)] checkpoint is C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes\crash_checkpoint.txt
+server is http://GoToMeetingv9_electron.bugsplat.com/post/bp/crash/postBP.php
+maximum 128 reports/day
+reporter is electron-crash-service
+[17536:17484:0806/023551.894:VERBOSE1:crash_service_main.cc(94)] Ready to process crash requests
+[17536:2572:0806/023551.895:VERBOSE1:crash_service.cc(317)] client start. pid = 2268
+[17536:18500:0806/023556.732:VERBOSE1:crash_service.cc(325)] client end. pid = 2268
+[17536:18500:0806/023557.744:VERBOSE1:crash_service.cc(346)] zero clients. exiting
+[17536:17484:0806/023557.744:VERBOSE1:crash_service.cc(486)] session ending..
+[17536:17484:0806/023557.744:VERBOSE1:crash_service.cc(491)] clients connected :1
+clients terminated :1
+dumps serviced :0
+dumps reported :0
+[17536:17484:0806/023557.744:VERBOSE1:crash_service_main.cc(99)] Session end. return code is 0
+[3796:16904:0806/023608.742:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=http://GoToMeetingv9_electron.bugsplat.com/post/bp/crash/postBP.php --application-name=GoToMeetingv9 "--crashes-directory=C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes" --v=1]
+[3796:16904:0806/023608.742:VERBOSE1:crash_service.cc(142)] window handle is 00060470
+[3796:16904:0806/023608.742:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\GoToMeetingv9 Crash Service
+dumps at C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes
+[3796:16904:0806/023608.742:VERBOSE1:crash_service.cc(288)] checkpoint is C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes\crash_checkpoint.txt
+server is http://GoToMeetingv9_electron.bugsplat.com/post/bp/crash/postBP.php
+maximum 128 reports/day
+reporter is electron-crash-service
+[3796:16904:0806/023608.742:VERBOSE1:crash_service_main.cc(94)] Ready to process crash requests
+[3796:10292:0806/023608.742:VERBOSE1:crash_service.cc(317)] client start. pid = 16988
+[3796:10292:0806/023859.286:VERBOSE1:crash_service.cc(317)] client start. pid = 16684
+[3816:10580:0806/023859.366:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=http://GoToMeetingv9_electron.bugsplat.com/post/bp/crash/postBP.php --application-name=GoToMeetingv9 "--crashes-directory=C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes" --v=1]
+[3816:10580:0806/023859.386:VERBOSE1:crash_service.cc(142)] window handle is 000B0444
+[3816:10580:0806/023859.386:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\GoToMeetingv9 Crash Service
+dumps at C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes
+[3816:10580:0806/023859.386:VERBOSE1:crash_service.cc(288)] checkpoint is C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes\crash_checkpoint.txt
+server is http://GoToMeetingv9_electron.bugsplat.com/post/bp/crash/postBP.php
+maximum 128 reports/day
+reporter is electron-crash-service
+[3816:10580:0806/023859.386:ERROR:crash_service.cc(295)] could not start dumper
+[3796:11528:0806/023859.474:VERBOSE1:crash_service.cc(325)] client end. pid = 16684
+[3796:10292:0806/024210.319:VERBOSE1:crash_service.cc(317)] client start. pid = 18792
+[1628:12396:0806/024210.387:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=http://GoToMeetingv9_electron.bugsplat.com/post/bp/crash/postBP.php --application-name=GoToMeetingv9 "--crashes-directory=C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes" --v=1]
+[1628:12396:0806/024210.403:VERBOSE1:crash_service.cc(142)] window handle is 000306A2
+[1628:12396:0806/024210.403:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\GoToMeetingv9 Crash Service
+dumps at C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes
+[1628:12396:0806/024210.403:VERBOSE1:crash_service.cc(288)] checkpoint is C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes\crash_checkpoint.txt
+server is http://GoToMeetingv9_electron.bugsplat.com/post/bp/crash/postBP.php
+maximum 128 reports/day
+reporter is electron-crash-service
+[1628:12396:0806/024210.403:ERROR:crash_service.cc(295)] could not start dumper
+[3796:11528:0806/024210.533:VERBOSE1:crash_service.cc(325)] client end. pid = 18792
+[3796:11528:0806/024224.826:VERBOSE1:crash_service.cc(325)] client end. pid = 16988
+[3796:11528:0806/024225.846:VERBOSE1:crash_service.cc(346)] zero clients. exiting
+[3796:16904:0806/024225.846:VERBOSE1:crash_service.cc(486)] session ending..
+[3796:16904:0806/024225.846:VERBOSE1:crash_service.cc(491)] clients connected :3
+clients terminated :3
+dumps serviced :0
+dumps reported :0
+[3796:16904:0806/024225.846:VERBOSE1:crash_service_main.cc(99)] Session end. return code is 0
+[12396:18536:0806/024227.065:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=http://GoToMeetingv9_electron.bugsplat.com/post/bp/crash/postBP.php --application-name=GoToMeetingv9 "--crashes-directory=C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes" --v=1]
+[12396:18536:0806/024227.065:VERBOSE1:crash_service.cc(142)] window handle is 00070470
+[12396:18536:0806/024227.065:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\GoToMeetingv9 Crash Service
+dumps at C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes
+[12396:18536:0806/024227.065:VERBOSE1:crash_service.cc(288)] checkpoint is C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes\crash_checkpoint.txt
+server is http://GoToMeetingv9_electron.bugsplat.com/post/bp/crash/postBP.php
+maximum 128 reports/day
+reporter is electron-crash-service
+[12396:18536:0806/024227.065:VERBOSE1:crash_service_main.cc(94)] Ready to process crash requests
+[12396:5424:0806/024227.065:VERBOSE1:crash_service.cc(317)] client start. pid = 18520
+[12396:5424:0806/024227.080:VERBOSE1:crash_service.cc(317)] client start. pid = 19140
+[12396:5424:0806/024227.096:VERBOSE1:crash_service.cc(317)] client start. pid = 18368
+[15692:8080:0806/024227.127:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=http://GoToMeetingv9_electron.bugsplat.com/post/bp/crash/postBP.php --application-name=GoToMeetingv9 "--crashes-directory=C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes" --v=1]
+[15692:8080:0806/024227.143:VERBOSE1:crash_service.cc(142)] window handle is 000400DA
+[15692:8080:0806/024227.143:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\GoToMeetingv9 Crash Service
+dumps at C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes
+[15692:8080:0806/024227.143:VERBOSE1:crash_service.cc(288)] checkpoint is C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes\crash_checkpoint.txt
+server is http://GoToMeetingv9_electron.bugsplat.com/post/bp/crash/postBP.php
+maximum 128 reports/day
+reporter is electron-crash-service
+[15692:8080:0806/024227.143:ERROR:crash_service.cc(295)] could not start dumper
+[2732:7848:0806/024227.158:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=http://GoToMeetingv9_electron.bugsplat.com/post/bp/crash/postBP.php --application-name=GoToMeetingv9 "--crashes-directory=C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes" --v=1]
+[2732:7848:0806/024227.174:VERBOSE1:crash_service.cc(142)] window handle is 0008067E
+[2732:7848:0806/024227.174:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\GoToMeetingv9 Crash Service
+dumps at C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes
+[2732:7848:0806/024227.174:VERBOSE1:crash_service.cc(288)] checkpoint is C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes\crash_checkpoint.txt
+server is http://GoToMeetingv9_electron.bugsplat.com/post/bp/crash/postBP.php
+maximum 128 reports/day
+reporter is electron-crash-service
+[2732:7848:0806/024227.174:ERROR:crash_service.cc(295)] could not start dumper
+[12396:15672:0806/024227.293:VERBOSE1:crash_service.cc(325)] client end. pid = 18368
+[12396:15672:0806/024227.297:VERBOSE1:crash_service.cc(325)] client end. pid = 19140
+[12396:15672:0806/025110.839:VERBOSE1:crash_service.cc(325)] client end. pid = 18520
+[12396:15672:0806/025111.848:VERBOSE1:crash_service.cc(346)] zero clients. exiting
+[12396:18536:0806/025111.848:VERBOSE1:crash_service.cc(486)] session ending..
+[12396:18536:0806/025111.848:VERBOSE1:crash_service.cc(491)] clients connected :3
+clients terminated :3
+dumps serviced :0
+dumps reported :0
+[12396:18536:0806/025111.848:VERBOSE1:crash_service_main.cc(99)] Session end. return code is 0
+[11400:2116:0806/025114.097:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=http://GoToMeetingv9_electron.bugsplat.com/post/bp/crash/postBP.php --application-name=GoToMeetingv9 "--crashes-directory=C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes" --v=1]
+[11400:2116:0806/025114.105:VERBOSE1:crash_service.cc(142)] window handle is 00030644
+[11400:2116:0806/025114.105:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\GoToMeetingv9 Crash Service
+dumps at C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes
+[11400:2116:0806/025114.105:VERBOSE1:crash_service.cc(288)] checkpoint is C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes\crash_checkpoint.txt
+server is http://GoToMeetingv9_electron.bugsplat.com/post/bp/crash/postBP.php
+maximum 128 reports/day
+reporter is electron-crash-service
+[11400:2116:0806/025114.105:VERBOSE1:crash_service_main.cc(94)] Ready to process crash requests
+[11400:11308:0806/025114.105:VERBOSE1:crash_service.cc(317)] client start. pid = 792
+[11400:11308:0806/025114.109:VERBOSE1:crash_service.cc(317)] client start. pid = 2872
+[17940:15884:0806/025114.141:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=http://GoToMeetingv9_electron.bugsplat.com/post/bp/crash/postBP.php --application-name=GoToMeetingv9 "--crashes-directory=C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes" --v=1]
+[17940:15884:0806/025114.161:VERBOSE1:crash_service.cc(142)] window handle is 000705F6
+[17940:15884:0806/025114.161:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\GoToMeetingv9 Crash Service
+dumps at C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes
+[17940:15884:0806/025114.161:VERBOSE1:crash_service.cc(288)] checkpoint is C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes\crash_checkpoint.txt
+server is http://GoToMeetingv9_electron.bugsplat.com/post/bp/crash/postBP.php
+maximum 128 reports/day
+reporter is electron-crash-service
+[17940:15884:0806/025114.161:ERROR:crash_service.cc(295)] could not start dumper
+[11400:6728:0806/025114.337:VERBOSE1:crash_service.cc(325)] client end. pid = 2872
+[11400:11308:0806/025151.999:VERBOSE1:crash_service.cc(317)] client start. pid = 14132
+[10400:16924:0806/025152.087:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=http://GoToMeetingv9_electron.bugsplat.com/post/bp/crash/postBP.php --application-name=GoToMeetingv9 "--crashes-directory=C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes" --v=1]
+[10400:16924:0806/025152.103:VERBOSE1:crash_service.cc(142)] window handle is 0006057E
+[10400:16924:0806/025152.103:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\GoToMeetingv9 Crash Service
+dumps at C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes
+[10400:16924:0806/025152.103:VERBOSE1:crash_service.cc(288)] checkpoint is C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes\crash_checkpoint.txt
+server is http://GoToMeetingv9_electron.bugsplat.com/post/bp/crash/postBP.php
+maximum 128 reports/day
+reporter is electron-crash-service
+[10400:16924:0806/025152.103:ERROR:crash_service.cc(295)] could not start dumper
+[11400:6728:0806/025152.147:VERBOSE1:crash_service.cc(325)] client end. pid = 14132
+[11400:6728:0806/025205.024:VERBOSE1:crash_service.cc(325)] client end. pid = 792
+[11400:6728:0806/025206.029:VERBOSE1:crash_service.cc(346)] zero clients. exiting
+[11400:2116:0806/025206.029:VERBOSE1:crash_service.cc(486)] session ending..
+[11400:2116:0806/025206.029:VERBOSE1:crash_service.cc(491)] clients connected :3
+clients terminated :3
+dumps serviced :0
+dumps reported :0
+[11400:2116:0806/025206.029:VERBOSE1:crash_service_main.cc(99)] Session end. return code is 0
+[7532:18684:0806/025206.810:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=http://GoToMeetingv9_electron.bugsplat.com/post/bp/crash/postBP.php --application-name=GoToMeetingv9 "--crashes-directory=C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes" --v=1]
+[7532:18684:0806/025206.810:VERBOSE1:crash_service.cc(142)] window handle is 00040644
+[7532:18684:0806/025206.810:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\GoToMeetingv9 Crash Service
+dumps at C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes
+[7532:18684:0806/025206.810:VERBOSE1:crash_service.cc(288)] checkpoint is C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes\crash_checkpoint.txt
+server is http://GoToMeetingv9_electron.bugsplat.com/post/bp/crash/postBP.php
+maximum 128 reports/day
+reporter is electron-crash-service
+[7532:18684:0806/025206.810:VERBOSE1:crash_service_main.cc(94)] Ready to process crash requests
+[7532:8172:0806/025206.810:VERBOSE1:crash_service.cc(317)] client start. pid = 9416
+[7532:12896:0806/025240.351:VERBOSE1:crash_service.cc(325)] client end. pid = 9416
+[7532:12896:0806/025241.365:VERBOSE1:crash_service.cc(346)] zero clients. exiting
+[7532:18684:0806/025241.365:VERBOSE1:crash_service.cc(486)] session ending..
+[7532:18684:0806/025241.365:VERBOSE1:crash_service.cc(491)] clients connected :1
+clients terminated :1
+dumps serviced :0
+dumps reported :0
+[7532:18684:0806/025241.365:VERBOSE1:crash_service_main.cc(99)] Session end. return code is 0
+[10280:16816:0806/025242.384:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=http://GoToMeetingv9_electron.bugsplat.com/post/bp/crash/postBP.php --application-name=GoToMeetingv9 "--crashes-directory=C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes" --v=1]
+[10280:16816:0806/025242.388:VERBOSE1:crash_service.cc(142)] window handle is 00050644
+[10280:16816:0806/025242.388:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\GoToMeetingv9 Crash Service
+dumps at C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes
+[10280:16816:0806/025242.388:VERBOSE1:crash_service.cc(288)] checkpoint is C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes\crash_checkpoint.txt
+server is http://GoToMeetingv9_electron.bugsplat.com/post/bp/crash/postBP.php
+maximum 128 reports/day
+reporter is electron-crash-service
+[10280:16816:0806/025242.388:VERBOSE1:crash_service_main.cc(94)] Ready to process crash requests
+[10280:3236:0806/025242.388:VERBOSE1:crash_service.cc(317)] client start. pid = 13472
+[10280:3236:0806/025242.392:VERBOSE1:crash_service.cc(317)] client start. pid = 16620
+[18140:13804:0806/025242.404:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=http://GoToMeetingv9_electron.bugsplat.com/post/bp/crash/postBP.php --application-name=GoToMeetingv9 "--crashes-directory=C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes" --v=1]
+[18140:13804:0806/025242.408:VERBOSE1:crash_service.cc(142)] window handle is 000606B2
+[18140:13804:0806/025242.408:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\GoToMeetingv9 Crash Service
+dumps at C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes
+[18140:13804:0806/025242.408:VERBOSE1:crash_service.cc(288)] checkpoint is C:\Users\SAILUCKY\AppData\Local\Temp\GoToMeetingv9 Crashes\crash_checkpoint.txt
+server is http://GoToMeetingv9_electron.bugsplat.com/post/bp/crash/postBP.php
+maximum 128 reports/day
+reporter is electron-crash-service
+[18140:13804:0806/025242.408:ERROR:crash_service.cc(295)] could not start dumper
+[10280:6284:0806/025242.484:VERBOSE1:crash_service.cc(325)] client end. pid = 16620

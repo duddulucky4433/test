@@ -1,0 +1,1418 @@
+2018-12-17 23:44:17:2900	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppService Connection status : Success'
+2018-12-17 23:44:17:3220	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppServiceConnectionOnRequestRecieved: Windows.Foundation.Collections.ValueSet'
+2018-12-17 23:44:17:3300	Type: Verbose	Id: 1	Message: 'SkypeBridge - (server) Com.Skype.SkypeBridgeService: OnRequestReceived: {
+  "icon": "Skype_SignedOut",
+  "enabled": false,
+  "tooltip": "Skype - Not Signed In",
+  "click": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "doubleclick": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "menu": [
+    {
+      "label": "Open Skype",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "OpenSkype"
+      }
+    },
+    {
+      "label": "Sign In",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "SignIn"
+      }
+    },
+    {
+      "label": "Separator"
+    },
+    {
+      "label": "Quit Skype",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "QuitSkype"
+      }
+    }
+  ]
+}'
+2018-12-17 23:44:17:8926	Type: Verbose	Id: 1	Message: 'SkypeBridge - closing connection after processing message'
+2018-12-17 23:44:18:0439	Type: Verbose	Id: 1	Message: 'SkypeBridge OnSecondLaunch'
+2018-12-17 23:44:18:0439	Type: Verbose	Id: 1	Message: 'SkypeBridge - SignalSecondInstanceLaunch'
+2018-12-17 23:44:18:0439	Type: Verbose	Id: 1	Message: 'SkypeBridge - OpenConnectionToSkype()'
+2018-12-17 23:44:18:1038	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppServiceConnectionOnRequestRecieved: Windows.Foundation.Collections.ValueSet'
+2018-12-17 23:44:18:1038	Type: Verbose	Id: 1	Message: 'SkypeBridge - (server) Com.Skype.SkypeBridgeService: OnRequestReceived: {
+  "icon": "Skype_SignedOut",
+  "enabled": false,
+  "tooltip": "Skype - Not Signed In",
+  "click": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "doubleclick": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "menu": [
+    {
+      "label": "Open Skype",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "OpenSkype"
+      }
+    },
+    {
+      "label": "Sign In",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "SignIn"
+      }
+    },
+    {
+      "label": "Separator"
+    },
+    {
+      "label": "Quit Skype",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "QuitSkype"
+      }
+    }
+  ]
+}'
+2018-12-17 23:44:18:1038	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppService Connection status : Success'
+2018-12-17 23:44:18:1078	Type: Verbose	Id: 1	Message: 'SkypeBridge - closing connection after processing message'
+2018-12-17 23:44:18:2398	Type: Verbose	Id: 1	Message: 'SkypeBridge OnSecondLaunch'
+2018-12-17 23:44:18:2398	Type: Verbose	Id: 1	Message: 'SkypeBridge - SignalSecondInstanceLaunch'
+2018-12-17 23:44:18:2398	Type: Verbose	Id: 1	Message: 'SkypeBridge - OpenConnectionToSkype()'
+2018-12-17 23:44:18:3640	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppServiceConnectionOnRequestRecieved: Windows.Foundation.Collections.ValueSet'
+2018-12-17 23:44:18:3640	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppService Connection status : Success'
+2018-12-17 23:44:18:3640	Type: Verbose	Id: 1	Message: 'SkypeBridge - (server) Com.Skype.SkypeBridgeService: OnRequestReceived: {
+  "icon": "Skype_Default",
+  "enabled": false,
+  "tooltip": "Skype - Signed In\r\n\r\nNo unread conversations",
+  "click": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "doubleclick": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "menu": [
+    {
+      "label": "No unread conversations",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "OpenSkype"
+      }
+    },
+    {
+      "label": "Separator"
+    },
+    {
+      "label": "Open Skype",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "OpenSkype"
+      }
+    },
+    {
+      "label": "Settings",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "Settings"
+      }
+    }
+  ]
+}'
+2018-12-17 23:44:18:3680	Type: Verbose	Id: 1	Message: 'SkypeBridge - closing connection after processing message'
+2018-12-17 23:44:18:5477	Type: Verbose	Id: 1	Message: 'SkypeBridge OnSecondLaunch'
+2018-12-17 23:44:18:5477	Type: Verbose	Id: 1	Message: 'SkypeBridge - SignalSecondInstanceLaunch'
+2018-12-17 23:44:18:5477	Type: Verbose	Id: 1	Message: 'SkypeBridge - OpenConnectionToSkype()'
+2018-12-17 23:44:18:6081	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppService Connection status : Success'
+2018-12-17 23:44:18:6182	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppServiceConnectionOnRequestRecieved: Windows.Foundation.Collections.ValueSet'
+2018-12-17 23:44:18:6182	Type: Verbose	Id: 1	Message: 'SkypeBridge - (server) Com.Skype.SkypeBridgeService: OnRequestReceived: {
+  "icon": "Skype_Default",
+  "enabled": false,
+  "tooltip": "Skype - Signed In\r\n\r\nNo unread conversations",
+  "click": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "doubleclick": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "menu": [
+    {
+      "label": "No unread conversations",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "OpenSkype"
+      }
+    },
+    {
+      "label": "Separator"
+    },
+    {
+      "label": "Open Skype",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "OpenSkype"
+      }
+    },
+    {
+      "label": "Settings",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "Settings"
+      }
+    }
+  ]
+}'
+2018-12-17 23:44:18:6182	Type: Verbose	Id: 1	Message: 'SkypeBridge - closing connection after processing message'
+2018-12-18 10:00:46:3885	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppService Connection status : Success'
+2018-12-18 10:00:46:4354	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppServiceConnectionOnRequestRecieved: Windows.Foundation.Collections.ValueSet'
+2018-12-18 10:00:46:4354	Type: Verbose	Id: 1	Message: 'SkypeBridge - (server) Com.Skype.SkypeBridgeService: OnRequestReceived: {
+  "icon": "Skype_SignedOut",
+  "enabled": false,
+  "tooltip": "Skype - Not Signed In",
+  "click": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "doubleclick": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "menu": [
+    {
+      "label": "Open Skype",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "OpenSkype"
+      }
+    },
+    {
+      "label": "Sign In",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "SignIn"
+      }
+    },
+    {
+      "label": "Separator"
+    },
+    {
+      "label": "Quit Skype",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "QuitSkype"
+      }
+    }
+  ]
+}'
+2018-12-18 10:00:46:9665	Type: Verbose	Id: 1	Message: 'SkypeBridge - closing connection after processing message'
+2018-12-18 10:00:47:1071	Type: Verbose	Id: 1	Message: 'SkypeBridge OnSecondLaunch'
+2018-12-18 10:00:47:1071	Type: Verbose	Id: 1	Message: 'SkypeBridge - SignalSecondInstanceLaunch'
+2018-12-18 10:00:47:1227	Type: Verbose	Id: 1	Message: 'SkypeBridge - OpenConnectionToSkype()'
+2018-12-18 10:00:47:1696	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppService Connection status : Success'
+2018-12-18 10:00:47:1696	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppServiceConnectionOnRequestRecieved: Windows.Foundation.Collections.ValueSet'
+2018-12-18 10:00:47:1696	Type: Verbose	Id: 1	Message: 'SkypeBridge - (server) Com.Skype.SkypeBridgeService: OnRequestReceived: {
+  "icon": "Skype_SignedOut",
+  "enabled": false,
+  "tooltip": "Skype - Not Signed In",
+  "click": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "doubleclick": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "menu": [
+    {
+      "label": "Open Skype",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "OpenSkype"
+      }
+    },
+    {
+      "label": "Sign In",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "SignIn"
+      }
+    },
+    {
+      "label": "Separator"
+    },
+    {
+      "label": "Quit Skype",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "QuitSkype"
+      }
+    }
+  ]
+}'
+2018-12-18 10:00:47:1852	Type: Verbose	Id: 1	Message: 'SkypeBridge - closing connection after processing message'
+2018-12-18 10:00:47:3258	Type: Verbose	Id: 1	Message: 'SkypeBridge OnSecondLaunch'
+2018-12-18 10:00:47:3258	Type: Verbose	Id: 1	Message: 'SkypeBridge - SignalSecondInstanceLaunch'
+2018-12-18 10:00:47:3258	Type: Verbose	Id: 1	Message: 'SkypeBridge - OpenConnectionToSkype()'
+2018-12-18 10:00:47:3727	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppService Connection status : Success'
+2018-12-18 10:00:47:3727	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppServiceConnectionOnRequestRecieved: Windows.Foundation.Collections.ValueSet'
+2018-12-18 10:00:47:3727	Type: Verbose	Id: 1	Message: 'SkypeBridge - (server) Com.Skype.SkypeBridgeService: OnRequestReceived: {
+  "icon": "Skype_Default",
+  "enabled": false,
+  "tooltip": "Skype - Signed In\r\n\r\nNo unread conversations",
+  "click": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "doubleclick": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "menu": [
+    {
+      "label": "No unread conversations",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "OpenSkype"
+      }
+    },
+    {
+      "label": "Separator"
+    },
+    {
+      "label": "Open Skype",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "OpenSkype"
+      }
+    },
+    {
+      "label": "Settings",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "Settings"
+      }
+    }
+  ]
+}'
+2018-12-18 10:00:47:3883	Type: Verbose	Id: 1	Message: 'SkypeBridge - closing connection after processing message'
+2018-12-18 10:00:53:7331	Type: Verbose	Id: 1	Message: 'SkypeBridge OnSecondLaunch'
+2018-12-18 10:00:53:7331	Type: Verbose	Id: 1	Message: 'SkypeBridge - SignalSecondInstanceLaunch'
+2018-12-18 10:00:53:7331	Type: Verbose	Id: 1	Message: 'SkypeBridge - OpenConnectionToSkype()'
+2018-12-18 10:00:53:7800	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppService Connection status : Success'
+2018-12-18 10:00:53:7956	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppServiceConnectionOnRequestRecieved: Windows.Foundation.Collections.ValueSet'
+2018-12-18 10:00:53:7956	Type: Verbose	Id: 1	Message: 'SkypeBridge - (server) Com.Skype.SkypeBridgeService: OnRequestReceived: {
+  "icon": "Skype_Default",
+  "enabled": false,
+  "tooltip": "Skype - Signed In\r\n\r\nNo unread conversations",
+  "click": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "doubleclick": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "menu": [
+    {
+      "label": "No unread conversations",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "OpenSkype"
+      }
+    },
+    {
+      "label": "Separator"
+    },
+    {
+      "label": "Open Skype",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "OpenSkype"
+      }
+    },
+    {
+      "label": "Settings",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "Settings"
+      }
+    }
+  ]
+}'
+2018-12-18 10:00:53:7956	Type: Verbose	Id: 1	Message: 'SkypeBridge - closing connection after processing message'
+2018-12-18 11:49:32:9871	Type: Verbose	Id: 1	Message: 'SkypeBridge OnSecondLaunch'
+2018-12-18 11:49:32:9871	Type: Verbose	Id: 1	Message: 'SkypeBridge - SignalSecondInstanceLaunch'
+2018-12-18 11:49:32:9871	Type: Verbose	Id: 1	Message: 'SkypeBridge - OpenConnectionToSkype()'
+2018-12-18 11:49:33:5683	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppService Connection status : Success'
+2018-12-18 11:49:33:5904	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppServiceConnectionOnRequestRecieved: Windows.Foundation.Collections.ValueSet'
+2018-12-18 11:49:33:5904	Type: Verbose	Id: 1	Message: 'SkypeBridge - (server) Com.Skype.SkypeBridgeService: OnRequestReceived: {
+  "icon": "Skype_Default",
+  "enabled": false,
+  "tooltip": "Skype - Signed In\r\n\r\nNo unread conversations",
+  "click": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "doubleclick": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "menu": [
+    {
+      "label": "No unread conversations",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "OpenSkype"
+      }
+    },
+    {
+      "label": "Separator"
+    },
+    {
+      "label": "Open Skype",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "OpenSkype"
+      }
+    },
+    {
+      "label": "Settings",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "Settings"
+      }
+    }
+  ]
+}'
+2018-12-18 11:49:33:5904	Type: Verbose	Id: 1	Message: 'SkypeBridge - closing connection after processing message'
+2018-12-19 12:13:10:5839	Type: Verbose	Id: 1	Message: 'SkypeBridge - OpenConnectionToSkype()'
+2018-12-19 12:13:10:7498	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppService Connection status : Success'
+2018-12-19 12:13:10:7814	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppServiceConnectionOnRequestRecieved: Windows.Foundation.Collections.ValueSet'
+2018-12-19 12:13:10:7814	Type: Verbose	Id: 1	Message: 'SkypeBridge - (server) Com.Skype.SkypeBridgeService: OnRequestReceived: {
+  "icon": "Skype_SignedOut",
+  "enabled": false,
+  "tooltip": "Skype - Not Signed In",
+  "click": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "doubleclick": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "menu": [
+    {
+      "label": "Open Skype",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "OpenSkype"
+      }
+    },
+    {
+      "label": "Sign In",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "SignIn"
+      }
+    },
+    {
+      "label": "Separator"
+    },
+    {
+      "label": "Quit Skype",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "QuitSkype"
+      }
+    }
+  ]
+}'
+2018-12-19 12:13:11:7224	Type: Verbose	Id: 1	Message: 'SkypeBridge - closing connection after processing message'
+2018-12-19 12:13:12:2764	Type: Verbose	Id: 1	Message: 'SkypeBridge OnSecondLaunch'
+2018-12-19 12:13:12:2764	Type: Verbose	Id: 1	Message: 'SkypeBridge - SignalSecondInstanceLaunch'
+2018-12-19 12:13:12:2866	Type: Verbose	Id: 1	Message: 'SkypeBridge - OpenConnectionToSkype()'
+2018-12-19 12:13:12:3986	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppService Connection status : Success'
+2018-12-19 12:13:12:4036	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppServiceConnectionOnRequestRecieved: Windows.Foundation.Collections.ValueSet'
+2018-12-19 12:13:12:4036	Type: Verbose	Id: 1	Message: 'SkypeBridge - (server) Com.Skype.SkypeBridgeService: OnRequestReceived: {
+  "icon": "Skype_SignedOut",
+  "enabled": false,
+  "tooltip": "Skype - Not Signed In",
+  "click": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "doubleclick": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "menu": [
+    {
+      "label": "Open Skype",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "OpenSkype"
+      }
+    },
+    {
+      "label": "Sign In",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "SignIn"
+      }
+    },
+    {
+      "label": "Separator"
+    },
+    {
+      "label": "Quit Skype",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "QuitSkype"
+      }
+    }
+  ]
+}'
+2018-12-19 12:13:12:4116	Type: Verbose	Id: 1	Message: 'SkypeBridge - closing connection after processing message'
+2018-12-19 12:13:13:0078	Type: Verbose	Id: 1	Message: 'SkypeBridge OnSecondLaunch'
+2018-12-19 12:13:13:0078	Type: Verbose	Id: 1	Message: 'SkypeBridge - SignalSecondInstanceLaunch'
+2018-12-19 12:13:13:0078	Type: Verbose	Id: 1	Message: 'SkypeBridge - OpenConnectionToSkype()'
+2018-12-19 12:13:13:1334	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppService Connection status : Success'
+2018-12-19 12:13:13:1384	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppServiceConnectionOnRequestRecieved: Windows.Foundation.Collections.ValueSet'
+2018-12-19 12:13:13:1384	Type: Verbose	Id: 1	Message: 'SkypeBridge - (server) Com.Skype.SkypeBridgeService: OnRequestReceived: {
+  "icon": "Skype_Default",
+  "enabled": false,
+  "tooltip": "Skype - Signed In\r\n\r\nNo unread conversations",
+  "click": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "doubleclick": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "menu": [
+    {
+      "label": "No unread conversations",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "OpenSkype"
+      }
+    },
+    {
+      "label": "Separator"
+    },
+    {
+      "label": "Open Skype",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "OpenSkype"
+      }
+    },
+    {
+      "label": "Settings",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "Settings"
+      }
+    }
+  ]
+}'
+2018-12-19 12:13:13:1424	Type: Verbose	Id: 1	Message: 'SkypeBridge - closing connection after processing message'
+2018-12-29 17:10:07:6931	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppService Connection status : Success'
+2018-12-29 17:10:07:7244	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppServiceConnectionOnRequestRecieved: Windows.Foundation.Collections.ValueSet'
+2018-12-29 17:10:07:7244	Type: Verbose	Id: 1	Message: 'SkypeBridge - (server) Com.Skype.SkypeBridgeService: OnRequestReceived: {
+  "icon": "Skype_SignedOut",
+  "enabled": false,
+  "tooltip": "Skype - Not Signed In",
+  "click": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "doubleclick": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "menu": [
+    {
+      "label": "Open Skype",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "OpenSkype"
+      }
+    },
+    {
+      "label": "Sign In",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "SignIn"
+      }
+    },
+    {
+      "label": "Separator"
+    },
+    {
+      "label": "Quit Skype",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "QuitSkype"
+      }
+    }
+  ]
+}'
+2018-12-29 17:10:08:3023	Type: Verbose	Id: 1	Message: 'SkypeBridge - closing connection after processing message'
+2018-12-29 17:10:08:5679	Type: Verbose	Id: 1	Message: 'SkypeBridge OnSecondLaunch'
+2018-12-29 17:10:08:5679	Type: Verbose	Id: 1	Message: 'SkypeBridge - SignalSecondInstanceLaunch'
+2018-12-29 17:10:08:5679	Type: Verbose	Id: 1	Message: 'SkypeBridge - OpenConnectionToSkype()'
+2018-12-29 17:10:08:6616	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppService Connection status : Success'
+2018-12-29 17:10:08:6929	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppServiceConnectionOnRequestRecieved: Windows.Foundation.Collections.ValueSet'
+2018-12-29 17:10:08:6929	Type: Verbose	Id: 1	Message: 'SkypeBridge - (server) Com.Skype.SkypeBridgeService: OnRequestReceived: {
+  "icon": "Skype_SignedOut",
+  "enabled": false,
+  "tooltip": "Skype - Not Signed In",
+  "click": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "doubleclick": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "menu": [
+    {
+      "label": "Open Skype",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "OpenSkype"
+      }
+    },
+    {
+      "label": "Sign In",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "SignIn"
+      }
+    },
+    {
+      "label": "Separator"
+    },
+    {
+      "label": "Quit Skype",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "QuitSkype"
+      }
+    }
+  ]
+}'
+2018-12-29 17:10:08:6929	Type: Verbose	Id: 1	Message: 'SkypeBridge - closing connection after processing message'
+2018-12-29 17:10:08:8491	Type: Verbose	Id: 1	Message: 'SkypeBridge OnSecondLaunch'
+2018-12-29 17:10:08:8491	Type: Verbose	Id: 1	Message: 'SkypeBridge - SignalSecondInstanceLaunch'
+2018-12-29 17:10:08:8491	Type: Verbose	Id: 1	Message: 'SkypeBridge - OpenConnectionToSkype()'
+2018-12-29 17:10:08:8959	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppService Connection status : Success'
+2018-12-29 17:10:08:8959	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppServiceConnectionOnRequestRecieved: Windows.Foundation.Collections.ValueSet'
+2018-12-29 17:10:08:8959	Type: Verbose	Id: 1	Message: 'SkypeBridge - (server) Com.Skype.SkypeBridgeService: OnRequestReceived: {
+  "icon": "Skype_Default",
+  "enabled": false,
+  "tooltip": "Skype - Signed In\r\n\r\nNo unread conversations",
+  "click": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "doubleclick": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "menu": [
+    {
+      "label": "No unread conversations",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "OpenSkype"
+      }
+    },
+    {
+      "label": "Separator"
+    },
+    {
+      "label": "Open Skype",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "OpenSkype"
+      }
+    },
+    {
+      "label": "Settings",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "Settings"
+      }
+    }
+  ]
+}'
+2018-12-29 17:10:08:8959	Type: Verbose	Id: 1	Message: 'SkypeBridge - closing connection after processing message'
+2018-12-29 20:15:44:9910	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppService Connection status : Success'
+2018-12-29 20:15:45:3659	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppServiceConnectionOnRequestRecieved: Windows.Foundation.Collections.ValueSet'
+2018-12-29 20:15:45:3659	Type: Verbose	Id: 1	Message: 'SkypeBridge - (server) Com.Skype.SkypeBridgeService: OnRequestReceived: {
+  "icon": "Skype_SignedOut",
+  "enabled": false,
+  "tooltip": "Skype - Not Signed In",
+  "click": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "doubleclick": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "menu": [
+    {
+      "label": "Open Skype",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "OpenSkype"
+      }
+    },
+    {
+      "label": "Sign In",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "SignIn"
+      }
+    },
+    {
+      "label": "Separator"
+    },
+    {
+      "label": "Quit Skype",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "QuitSkype"
+      }
+    }
+  ]
+}'
+2018-12-29 20:15:45:8348	Type: Verbose	Id: 1	Message: 'SkypeBridge - closing connection after processing message'
+2018-12-29 20:15:45:9285	Type: Verbose	Id: 1	Message: 'SkypeBridge OnSecondLaunch'
+2018-12-29 20:15:45:9285	Type: Verbose	Id: 1	Message: 'SkypeBridge - SignalSecondInstanceLaunch'
+2018-12-29 20:15:45:9285	Type: Verbose	Id: 1	Message: 'SkypeBridge - OpenConnectionToSkype()'
+2018-12-29 20:15:45:9754	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppService Connection status : Success'
+2018-12-29 20:15:45:9754	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppServiceConnectionOnRequestRecieved: Windows.Foundation.Collections.ValueSet'
+2018-12-29 20:15:45:9754	Type: Verbose	Id: 1	Message: 'SkypeBridge - (server) Com.Skype.SkypeBridgeService: OnRequestReceived: {
+  "icon": "Skype_SignedOut",
+  "enabled": false,
+  "tooltip": "Skype - Not Signed In",
+  "click": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "doubleclick": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "menu": [
+    {
+      "label": "Open Skype",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "OpenSkype"
+      }
+    },
+    {
+      "label": "Sign In",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "SignIn"
+      }
+    },
+    {
+      "label": "Separator"
+    },
+    {
+      "label": "Quit Skype",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "QuitSkype"
+      }
+    }
+  ]
+}'
+2018-12-29 20:15:45:9754	Type: Verbose	Id: 1	Message: 'SkypeBridge - closing connection after processing message'
+2018-12-29 20:15:46:0535	Type: Verbose	Id: 1	Message: 'SkypeBridge OnSecondLaunch'
+2018-12-29 20:15:46:0535	Type: Verbose	Id: 1	Message: 'SkypeBridge - SignalSecondInstanceLaunch'
+2018-12-29 20:15:46:0535	Type: Verbose	Id: 1	Message: 'SkypeBridge - OpenConnectionToSkype()'
+2018-12-29 20:15:46:1004	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppService Connection status : Success'
+2018-12-29 20:15:46:1004	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppServiceConnectionOnRequestRecieved: Windows.Foundation.Collections.ValueSet'
+2018-12-29 20:15:46:1004	Type: Verbose	Id: 1	Message: 'SkypeBridge - (server) Com.Skype.SkypeBridgeService: OnRequestReceived: {
+  "icon": "Skype_Default",
+  "enabled": false,
+  "tooltip": "Skype - Signed In\r\n\r\nNo unread conversations",
+  "click": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "doubleclick": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "menu": [
+    {
+      "label": "No unread conversations",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "OpenSkype"
+      }
+    },
+    {
+      "label": "Separator"
+    },
+    {
+      "label": "Open Skype",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "OpenSkype"
+      }
+    },
+    {
+      "label": "Settings",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "Settings"
+      }
+    }
+  ]
+}'
+2018-12-29 20:15:46:1004	Type: Verbose	Id: 1	Message: 'SkypeBridge - closing connection after processing message'
+2019-01-07 23:07:55:0534	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppService Connection status : Success'
+2019-01-07 23:07:55:1784	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppServiceConnectionOnRequestRecieved: Windows.Foundation.Collections.ValueSet'
+2019-01-07 23:07:55:1940	Type: Verbose	Id: 1	Message: 'SkypeBridge - (server) Com.Skype.SkypeBridgeService: OnRequestReceived: {
+  "icon": "Skype_SignedOut",
+  "enabled": false,
+  "tooltip": "Skype - Not Signed In",
+  "click": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "doubleclick": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "menu": [
+    {
+      "label": "Open Skype",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "OpenSkype"
+      }
+    },
+    {
+      "label": "Sign In",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "SignIn"
+      }
+    },
+    {
+      "label": "Separator"
+    },
+    {
+      "label": "Quit Skype",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "QuitSkype"
+      }
+    }
+  ]
+}'
+2019-01-07 23:07:55:6627	Type: Verbose	Id: 1	Message: 'SkypeBridge - closing connection after processing message'
+2019-01-07 23:07:55:8501	Type: Verbose	Id: 1	Message: 'SkypeBridge OnSecondLaunch'
+2019-01-07 23:07:55:8501	Type: Verbose	Id: 1	Message: 'SkypeBridge - SignalSecondInstanceLaunch'
+2019-01-07 23:07:55:8501	Type: Verbose	Id: 1	Message: 'SkypeBridge - OpenConnectionToSkype()'
+2019-01-07 23:07:55:8970	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppService Connection status : Success'
+2019-01-07 23:07:55:9126	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppServiceConnectionOnRequestRecieved: Windows.Foundation.Collections.ValueSet'
+2019-01-07 23:07:55:9126	Type: Verbose	Id: 1	Message: 'SkypeBridge - (server) Com.Skype.SkypeBridgeService: OnRequestReceived: {
+  "icon": "Skype_SignedOut",
+  "enabled": false,
+  "tooltip": "Skype - Not Signed In",
+  "click": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "doubleclick": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "menu": [
+    {
+      "label": "Open Skype",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "OpenSkype"
+      }
+    },
+    {
+      "label": "Sign In",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "SignIn"
+      }
+    },
+    {
+      "label": "Separator"
+    },
+    {
+      "label": "Quit Skype",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "QuitSkype"
+      }
+    }
+  ]
+}'
+2019-01-07 23:07:55:9126	Type: Verbose	Id: 1	Message: 'SkypeBridge - closing connection after processing message'
+2019-01-07 23:07:56:0844	Type: Verbose	Id: 1	Message: 'SkypeBridge OnSecondLaunch'
+2019-01-07 23:07:56:0844	Type: Verbose	Id: 1	Message: 'SkypeBridge - SignalSecondInstanceLaunch'
+2019-01-07 23:07:56:0844	Type: Verbose	Id: 1	Message: 'SkypeBridge - OpenConnectionToSkype()'
+2019-01-07 23:07:56:1313	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppService Connection status : Success'
+2019-01-07 23:07:56:1313	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppServiceConnectionOnRequestRecieved: Windows.Foundation.Collections.ValueSet'
+2019-01-07 23:07:56:1313	Type: Verbose	Id: 1	Message: 'SkypeBridge - (server) Com.Skype.SkypeBridgeService: OnRequestReceived: {
+  "icon": "Skype_Default",
+  "enabled": false,
+  "tooltip": "Skype - Signed In\r\n\r\nNo unread conversations",
+  "click": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "doubleclick": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "menu": [
+    {
+      "label": "No unread conversations",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "OpenSkype"
+      }
+    },
+    {
+      "label": "Separator"
+    },
+    {
+      "label": "Open Skype",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "OpenSkype"
+      }
+    },
+    {
+      "label": "Settings",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "Settings"
+      }
+    }
+  ]
+}'
+2019-01-07 23:07:56:1469	Type: Verbose	Id: 1	Message: 'SkypeBridge - closing connection after processing message'
+2019-01-07 23:07:57:9176	Type: Verbose	Id: 1	Message: 'SkypeBridge OnSecondLaunch'
+2019-01-07 23:07:57:9176	Type: Verbose	Id: 1	Message: 'SkypeBridge - SignalSecondInstanceLaunch'
+2019-01-07 23:07:57:9176	Type: Verbose	Id: 1	Message: 'SkypeBridge - OpenConnectionToSkype()'
+2019-01-07 23:07:57:9489	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppService Connection status : Success'
+2019-01-07 23:07:57:9645	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppServiceConnectionOnRequestRecieved: Windows.Foundation.Collections.ValueSet'
+2019-01-07 23:07:57:9645	Type: Verbose	Id: 1	Message: 'SkypeBridge - (server) Com.Skype.SkypeBridgeService: OnRequestReceived: {
+  "icon": "Skype_Default",
+  "enabled": false,
+  "tooltip": "Skype - Signed In\r\n\r\nNo unread conversations",
+  "click": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "doubleclick": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "menu": [
+    {
+      "label": "No unread conversations",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "OpenSkype"
+      }
+    },
+    {
+      "label": "Separator"
+    },
+    {
+      "label": "Open Skype",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "OpenSkype"
+      }
+    },
+    {
+      "label": "Settings",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "Settings"
+      }
+    }
+  ]
+}'
+2019-01-07 23:07:57:9645	Type: Verbose	Id: 1	Message: 'SkypeBridge - closing connection after processing message'
+2019-01-08 22:06:15:1031	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppService Connection status : Success'
+2019-01-08 22:06:15:1987	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppServiceConnectionOnRequestRecieved: Windows.Foundation.Collections.ValueSet'
+2019-01-08 22:06:15:2055	Type: Verbose	Id: 1	Message: 'SkypeBridge - (server) Com.Skype.SkypeBridgeService: OnRequestReceived: {
+  "icon": "Skype_SignedOut",
+  "enabled": false,
+  "tooltip": "Skype - Not Signed In",
+  "click": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "doubleclick": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "menu": [
+    {
+      "label": "Open Skype",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "OpenSkype"
+      }
+    },
+    {
+      "label": "Sign In",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "SignIn"
+      }
+    },
+    {
+      "label": "Separator"
+    },
+    {
+      "label": "Quit Skype",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "QuitSkype"
+      }
+    }
+  ]
+}'
+2019-01-08 22:06:15:9981	Type: Verbose	Id: 1	Message: 'SkypeBridge - closing connection after processing message'
+2019-01-08 22:06:16:2185	Type: Verbose	Id: 1	Message: 'SkypeBridge OnSecondLaunch'
+2019-01-08 22:06:16:2190	Type: Verbose	Id: 1	Message: 'SkypeBridge - SignalSecondInstanceLaunch'
+2019-01-08 22:06:16:2253	Type: Verbose	Id: 1	Message: 'SkypeBridge - OpenConnectionToSkype()'
+2019-01-08 22:06:16:5296	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppService Connection status : Success'
+2019-01-08 22:06:16:6830	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppServiceConnectionOnRequestRecieved: Windows.Foundation.Collections.ValueSet'
+2019-01-08 22:06:16:6830	Type: Verbose	Id: 1	Message: 'SkypeBridge - (server) Com.Skype.SkypeBridgeService: OnRequestReceived: {
+  "icon": "Skype_SignedOut",
+  "enabled": false,
+  "tooltip": "Skype - Not Signed In",
+  "click": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "doubleclick": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "menu": [
+    {
+      "label": "Open Skype",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "OpenSkype"
+      }
+    },
+    {
+      "label": "Sign In",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "SignIn"
+      }
+    },
+    {
+      "label": "Separator"
+    },
+    {
+      "label": "Quit Skype",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "QuitSkype"
+      }
+    }
+  ]
+}'
+2019-01-08 22:06:16:6851	Type: Verbose	Id: 1	Message: 'SkypeBridge - closing connection after processing message'
+2019-01-08 22:06:16:9001	Type: Verbose	Id: 1	Message: 'SkypeBridge OnSecondLaunch'
+2019-01-08 22:06:16:9001	Type: Verbose	Id: 1	Message: 'SkypeBridge - SignalSecondInstanceLaunch'
+2019-01-08 22:06:16:9001	Type: Verbose	Id: 1	Message: 'SkypeBridge - OpenConnectionToSkype()'
+2019-01-08 22:06:17:1602	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppService Connection status : Success'
+2019-01-08 22:06:17:1722	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppServiceConnectionOnRequestRecieved: Windows.Foundation.Collections.ValueSet'
+2019-01-08 22:06:17:1722	Type: Verbose	Id: 1	Message: 'SkypeBridge - (server) Com.Skype.SkypeBridgeService: OnRequestReceived: {
+  "icon": "Skype_Default",
+  "enabled": false,
+  "tooltip": "Skype - Signed In\r\n\r\nNo unread conversations",
+  "click": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "doubleclick": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "menu": [
+    {
+      "label": "No unread conversations",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "OpenSkype"
+      }
+    },
+    {
+      "label": "Separator"
+    },
+    {
+      "label": "Open Skype",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "OpenSkype"
+      }
+    },
+    {
+      "label": "Settings",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "Settings"
+      }
+    }
+  ]
+}'
+2019-01-08 22:06:17:1745	Type: Verbose	Id: 1	Message: 'SkypeBridge - closing connection after processing message'
+2019-01-08 23:08:29:6242	Type: Verbose	Id: 1	Message: 'SkypeBridge - OpenConnectionToSkype()'
+2019-01-08 23:08:29:9794	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppService Connection status : Success'
+2019-01-08 23:08:30:1082	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppServiceConnectionOnRequestRecieved: Windows.Foundation.Collections.ValueSet'
+2019-01-08 23:08:30:1132	Type: Verbose	Id: 1	Message: 'SkypeBridge - (server) Com.Skype.SkypeBridgeService: OnRequestReceived: {
+  "icon": "Skype_SignedOut",
+  "enabled": false,
+  "tooltip": "Skype - Not Signed In",
+  "click": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "doubleclick": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "menu": [
+    {
+      "label": "Open Skype",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "OpenSkype"
+      }
+    },
+    {
+      "label": "Sign In",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "SignIn"
+      }
+    },
+    {
+      "label": "Separator"
+    },
+    {
+      "label": "Quit Skype",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "QuitSkype"
+      }
+    }
+  ]
+}'
+2019-01-08 23:08:30:8167	Type: Verbose	Id: 1	Message: 'SkypeBridge - closing connection after processing message'
+2019-01-08 23:08:30:9853	Type: Verbose	Id: 1	Message: 'SkypeBridge OnSecondLaunch'
+2019-01-08 23:08:30:9875	Type: Verbose	Id: 1	Message: 'SkypeBridge - SignalSecondInstanceLaunch'
+2019-01-08 23:08:30:9900	Type: Verbose	Id: 1	Message: 'SkypeBridge - OpenConnectionToSkype()'
+2019-01-08 23:08:31:0512	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppService Connection status : Success'
+2019-01-08 23:08:31:0552	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppServiceConnectionOnRequestRecieved: Windows.Foundation.Collections.ValueSet'
+2019-01-08 23:08:31:0552	Type: Verbose	Id: 1	Message: 'SkypeBridge - (server) Com.Skype.SkypeBridgeService: OnRequestReceived: {
+  "icon": "Skype_SignedOut",
+  "enabled": false,
+  "tooltip": "Skype - Not Signed In",
+  "click": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "doubleclick": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "menu": [
+    {
+      "label": "Open Skype",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "OpenSkype"
+      }
+    },
+    {
+      "label": "Sign In",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "SignIn"
+      }
+    },
+    {
+      "label": "Separator"
+    },
+    {
+      "label": "Quit Skype",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "QuitSkype"
+      }
+    }
+  ]
+}'
+2019-01-08 23:08:31:0572	Type: Verbose	Id: 1	Message: 'SkypeBridge - closing connection after processing message'
+2019-01-08 23:08:31:2091	Type: Verbose	Id: 1	Message: 'SkypeBridge OnSecondLaunch'
+2019-01-08 23:08:31:2091	Type: Verbose	Id: 1	Message: 'SkypeBridge - SignalSecondInstanceLaunch'
+2019-01-08 23:08:31:2091	Type: Verbose	Id: 1	Message: 'SkypeBridge - OpenConnectionToSkype()'
+2019-01-08 23:08:31:2708	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppService Connection status : Success'
+2019-01-08 23:08:31:2756	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppServiceConnectionOnRequestRecieved: Windows.Foundation.Collections.ValueSet'
+2019-01-08 23:08:31:2756	Type: Verbose	Id: 1	Message: 'SkypeBridge - (server) Com.Skype.SkypeBridgeService: OnRequestReceived: {
+  "icon": "Skype_Default",
+  "enabled": false,
+  "tooltip": "Skype - Signed In\r\n\r\nNo unread conversations",
+  "click": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "doubleclick": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "menu": [
+    {
+      "label": "No unread conversations",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "OpenSkype"
+      }
+    },
+    {
+      "label": "Separator"
+    },
+    {
+      "label": "Open Skype",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "OpenSkype"
+      }
+    },
+    {
+      "label": "Settings",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "Settings"
+      }
+    }
+  ]
+}'
+2019-01-08 23:08:31:2812	Type: Verbose	Id: 1	Message: 'SkypeBridge - closing connection after processing message'
+2019-01-08 23:11:05:9471	Type: Verbose	Id: 1	Message: 'SkypeBridge OnSecondLaunch'
+2019-01-08 23:11:05:9471	Type: Verbose	Id: 1	Message: 'SkypeBridge - SignalSecondInstanceLaunch'
+2019-01-08 23:11:05:9479	Type: Verbose	Id: 1	Message: 'SkypeBridge - OpenConnectionToSkype()'
+2019-01-08 23:11:06:0534	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppService Connection status : Success'
+2019-01-08 23:11:06:0599	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppServiceConnectionOnRequestRecieved: Windows.Foundation.Collections.ValueSet'
+2019-01-08 23:11:06:0599	Type: Verbose	Id: 1	Message: 'SkypeBridge - (server) Com.Skype.SkypeBridgeService: OnRequestReceived: {
+  "icon": "Skype_Default",
+  "enabled": false,
+  "tooltip": "Skype - Signed In\r\n\r\nNo unread conversations",
+  "click": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "doubleclick": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "menu": [
+    {
+      "label": "No unread conversations",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "OpenSkype"
+      }
+    },
+    {
+      "label": "Separator"
+    },
+    {
+      "label": "Open Skype",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "OpenSkype"
+      }
+    },
+    {
+      "label": "Settings",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "Settings"
+      }
+    }
+  ]
+}'
+2019-01-08 23:11:06:0623	Type: Verbose	Id: 1	Message: 'SkypeBridge - closing connection after processing message'
+2019-01-08 23:11:06:2214	Type: Verbose	Id: 1	Message: 'SkypeBridge OnSecondLaunch'
+2019-01-08 23:11:06:2214	Type: Verbose	Id: 1	Message: 'SkypeBridge - SignalSecondInstanceLaunch'
+2019-01-08 23:11:06:2214	Type: Verbose	Id: 1	Message: 'SkypeBridge - OpenConnectionToSkype()'
+2019-01-08 23:11:06:2821	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppService Connection status : Success'
+2019-01-08 23:11:06:2897	Type: Verbose	Id: 1	Message: 'SkypeBridge - AppServiceConnectionOnRequestRecieved: Windows.Foundation.Collections.ValueSet'
+2019-01-08 23:11:06:2903	Type: Verbose	Id: 1	Message: 'SkypeBridge - (server) Com.Skype.SkypeBridgeService: OnRequestReceived: {
+  "icon": "Skype_SignedOut",
+  "enabled": false,
+  "tooltip": "Skype - Not Signed In",
+  "click": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "doubleclick": {
+    "action": "ProtocolLaunch",
+    "params": "OpenSkype"
+  },
+  "menu": [
+    {
+      "label": "Open Skype",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "OpenSkype"
+      }
+    },
+    {
+      "label": "Sign In",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "SignIn"
+      }
+    },
+    {
+      "label": "Separator"
+    },
+    {
+      "label": "Quit Skype",
+      "enabled": true,
+      "actionHandler": {
+        "action": "ProtocolLaunch",
+        "params": "QuitSkype"
+      }
+    }
+  ]
+}'
+2019-01-08 23:11:06:2913	Type: Verbose	Id: 1	Message: 'SkypeBridge - closing connection after processing message'

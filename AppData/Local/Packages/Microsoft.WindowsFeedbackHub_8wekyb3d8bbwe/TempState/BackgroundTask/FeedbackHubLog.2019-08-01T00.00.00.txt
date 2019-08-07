@@ -1,0 +1,77 @@
+08/01/2019 02:16:38  Activity ID: f7acee58-89aa-49b5-88e2-95293f21ef1c
+08/01/2019 02:16:38  Starting background task AppEnumerationBackgroundTask
+08/01/2019 02:16:38  App Version: 1.1903.1582.0
+08/01/2019 02:16:39  Starting the app enumeration in a background task
+08/01/2019 02:16:39  GetPublicModernApps.Start[920]
+08/01/2019 02:16:40  GetPublicModernApps.Stop[2167]
+08/01/2019 02:16:42  App enumeration complete, saving contents to disk. Modern[43] Inventory[0] Broker[102]
+08/01/2019 02:16:42  Saving app inventory to file
+08/01/2019 02:16:42  App inventory file already exists, creating temp file: 1a17a469-ec2e-4d6f-a925-77de5e74d3f0.json
+08/01/2019 02:16:43  Swaping existing file with temp file: 1a17a469-ec2e-4d6f-a925-77de5e74d3f0.json
+08/01/2019 02:16:43  Successfully saved the app inventory to file
+08/01/2019 02:23:28  Activity ID: 70f97ac7-69ee-43da-9174-0bb2b56b891b
+08/01/2019 02:23:28  Starting background task AppEnumerationBackgroundTask
+08/01/2019 02:23:28  Starting the app enumeration in a background task
+08/01/2019 02:23:28  GetPublicModernApps.Start[9]
+08/01/2019 02:23:28  App Version: 1.1903.1582.0
+08/01/2019 02:23:30  GetPublicModernApps.Stop[1669]
+08/01/2019 02:23:32  App enumeration complete, saving contents to disk. Modern[43] Inventory[0] Broker[102]
+08/01/2019 02:23:32  Saving app inventory to file
+08/01/2019 02:23:32  App inventory file already exists, creating temp file: 51750227-ccd4-44a3-b26a-2f401f3e5700.json
+08/01/2019 02:23:32  Swaping existing file with temp file: 51750227-ccd4-44a3-b26a-2f401f3e5700.json
+08/01/2019 02:23:32  Successfully saved the app inventory to file
+08/01/2019 03:23:52  Activity ID: 1cdea763-4e52-4ea7-a7da-49136597c364
+08/01/2019 03:23:52  Starting background task AppEnumerationBackgroundTask
+08/01/2019 03:23:52  App Version: 1.1903.1582.0
+08/01/2019 03:23:52  Starting the app enumeration in a background task
+08/01/2019 03:23:52  GetPublicModernApps.Start[144]
+08/01/2019 03:23:54  GetPublicModernApps.Stop[2095]
+08/01/2019 03:23:57  App enumeration complete, saving contents to disk. Modern[43] Inventory[0] Broker[102]
+08/01/2019 03:23:57  Saving app inventory to file
+08/01/2019 03:23:57  App inventory file already exists, creating temp file: fd6d1508-b6b2-412b-84bc-0c647dd060f0.json
+08/01/2019 03:23:57  Swaping existing file with temp file: fd6d1508-b6b2-412b-84bc-0c647dd060f0.json
+08/01/2019 03:23:57  Successfully saved the app inventory to file
+08/01/2019 09:58:00  Activity ID: 497a27c4-ef22-45f3-9548-9af92951c777
+08/01/2019 09:58:00  Starting background task AppEnumerationBackgroundTask
+08/01/2019 09:58:00  App Version: 1.1903.1582.0
+08/01/2019 09:58:00  Starting the app enumeration in a background task
+08/01/2019 09:58:00  GetPublicModernApps.Start[530]
+08/01/2019 09:58:11  GetPublicModernApps.Stop[11855]
+08/01/2019 09:58:11  App enumeration complete, saving contents to disk. Modern[43] Inventory[0] Broker[102]
+08/01/2019 09:58:11  Saving app inventory to file
+08/01/2019 09:58:12  App inventory file already exists, creating temp file: 8887ae1e-bc8f-4baa-a9b9-b1f356ed8fa1.json
+08/01/2019 09:58:12  Swaping existing file with temp file: 8887ae1e-bc8f-4baa-a9b9-b1f356ed8fa1.json
+08/01/2019 09:58:12  Successfully saved the app inventory to file
+08/01/2019 10:23:53  Activity ID: 68d8ad5e-d381-4cc3-a760-149625475042
+08/01/2019 10:23:53  Starting background task AppEnumerationBackgroundTask
+08/01/2019 10:23:53  App Version: 1.1903.1582.0
+08/01/2019 10:23:53  Starting the app enumeration in a background task
+08/01/2019 10:23:53  GetPublicModernApps.Start[15]
+08/01/2019 10:23:54  GetPublicModernApps.Stop[1710]
+08/01/2019 10:23:57  App enumeration complete, saving contents to disk. Modern[43] Inventory[0] Broker[102]
+08/01/2019 10:23:57  Saving app inventory to file
+08/01/2019 10:23:57  App inventory file already exists, creating temp file: a9e27282-ac9b-4dc5-8cf0-a7c3d2f7c660.json
+08/01/2019 10:23:57  Swaping existing file with temp file: a9e27282-ac9b-4dc5-8cf0-a7c3d2f7c660.json
+08/01/2019 10:23:57  Successfully saved the app inventory to file
+08/01/2019 11:23:52  Activity ID: e3e6bc08-73b1-42c9-b0a8-f204ef1a1e14
+08/01/2019 11:23:52  Starting background task AppEnumerationBackgroundTask
+08/01/2019 11:23:52  App Version: 1.1903.1582.0
+08/01/2019 11:23:52  Starting the app enumeration in a background task
+08/01/2019 11:23:52  GetPublicModernApps.Start[94]
+08/01/2019 11:23:54  GetPublicModernApps.Stop[2176]
+08/01/2019 11:23:56  App enumeration complete, saving contents to disk. Modern[43] Inventory[0] Broker[102]
+08/01/2019 11:23:56  Saving app inventory to file
+08/01/2019 11:23:56  App inventory file already exists, creating temp file: 0257ccc0-db87-4457-9625-fa1045c8453d.json
+08/01/2019 11:23:56  Swaping existing file with temp file: 0257ccc0-db87-4457-9625-fa1045c8453d.json
+08/01/2019 11:23:56  Successfully saved the app inventory to file
+08/01/2019 13:28:09  Activity ID: 27d86f7d-1fdf-4e9a-b111-f0872929bff9
+08/01/2019 13:28:09  Starting background task AppEnumerationBackgroundTask
+08/01/2019 13:28:09  App Version: 1.1903.1582.0
+08/01/2019 13:28:09  Starting the app enumeration in a background task
+08/01/2019 13:28:09  GetPublicModernApps.Start[100]
+08/01/2019 13:28:10  GetPublicModernApps.Stop[1076]
+08/01/2019 13:28:11  App enumeration complete, saving contents to disk. Modern[43] Inventory[0] Broker[102]
+08/01/2019 13:28:11  Saving app inventory to file
+08/01/2019 13:28:11  App inventory file already exists, creating temp file: de81b0d0-121f-42ee-9298-beb16ea1a4ef.json
+08/01/2019 13:28:11  Swaping existing file with temp file: de81b0d0-121f-42ee-9298-beb16ea1a4ef.json
+08/01/2019 13:28:11  Successfully saved the app inventory to file

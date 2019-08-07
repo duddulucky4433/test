@@ -1,0 +1,55 @@
+08/02/2019 09:39:32  Activity ID: b75f15c4-53ad-4e56-ab35-ff7c520a04af
+08/02/2019 09:39:32  Starting background task AppEnumerationBackgroundTask
+08/02/2019 09:39:32  App Version: 1.1903.1582.0
+08/02/2019 09:39:32  Starting the app enumeration in a background task
+08/02/2019 09:39:32  GetPublicModernApps.Start[113]
+08/02/2019 09:39:34  GetPublicModernApps.Stop[2144]
+08/02/2019 09:39:35  App enumeration complete, saving contents to disk. Modern[43] Inventory[0] Broker[102]
+08/02/2019 09:39:35  Saving app inventory to file
+08/02/2019 09:39:35  App inventory file already exists, creating temp file: 6912f40a-d3e9-4244-ad8f-57b4a6b142ec.json
+08/02/2019 09:39:36  Swaping existing file with temp file: 6912f40a-d3e9-4244-ad8f-57b4a6b142ec.json
+08/02/2019 09:39:36  Successfully saved the app inventory to file
+08/02/2019 15:23:11  Activity ID: cdf7c266-7f68-4485-a095-bbcdc74abb52
+08/02/2019 15:23:11  Starting background task AppEnumerationBackgroundTask
+08/02/2019 15:23:11  App Version: 1.1903.1582.0
+08/02/2019 15:23:11  Starting the app enumeration in a background task
+08/02/2019 15:23:11  GetPublicModernApps.Start[70]
+08/02/2019 15:23:12  GetPublicModernApps.Stop[2135]
+08/02/2019 15:23:16  App enumeration complete, saving contents to disk. Modern[43] Inventory[0] Broker[102]
+08/02/2019 15:23:16  Saving app inventory to file
+08/02/2019 15:23:16  App inventory file already exists, creating temp file: 5d9f0319-b208-46ee-b540-d434496ab88f.json
+08/02/2019 15:23:16  Swaping existing file with temp file: 5d9f0319-b208-46ee-b540-d434496ab88f.json
+08/02/2019 15:23:16  Successfully saved the app inventory to file
+08/02/2019 16:23:11  Activity ID: 9613b70a-e67c-4e3a-a8bf-0974d87b2d11
+08/02/2019 16:23:11  Starting background task AppEnumerationBackgroundTask
+08/02/2019 16:23:11  App Version: 1.1903.1582.0
+08/02/2019 16:23:11  Starting the app enumeration in a background task
+08/02/2019 16:23:11  GetPublicModernApps.Start[50]
+08/02/2019 16:23:11  GetPublicModernApps.Stop[832]
+08/02/2019 16:23:12  App enumeration complete, saving contents to disk. Modern[43] Inventory[0] Broker[102]
+08/02/2019 16:23:12  Saving app inventory to file
+08/02/2019 16:23:12  App inventory file already exists, creating temp file: ec94fe52-3a8a-474d-934a-06ad1f2cd475.json
+08/02/2019 16:23:12  Swaping existing file with temp file: ec94fe52-3a8a-474d-934a-06ad1f2cd475.json
+08/02/2019 16:23:12  Successfully saved the app inventory to file
+08/02/2019 17:42:22  Activity ID: d4c26f1a-6881-40af-ba7e-4ddf268dc0f5
+08/02/2019 17:42:22  Starting background task AppEnumerationBackgroundTask
+08/02/2019 17:42:22  App Version: 1.1903.1582.0
+08/02/2019 17:42:22  Starting the app enumeration in a background task
+08/02/2019 17:42:22  GetPublicModernApps.Start[750]
+08/02/2019 17:42:23  GetPublicModernApps.Stop[1999]
+08/02/2019 17:42:24  App enumeration complete, saving contents to disk. Modern[43] Inventory[0] Broker[102]
+08/02/2019 17:42:24  Saving app inventory to file
+08/02/2019 17:42:24  App inventory file already exists, creating temp file: 3bb81a72-c111-438c-8646-ae0af382f848.json
+08/02/2019 17:42:24  Swaping existing file with temp file: 3bb81a72-c111-438c-8646-ae0af382f848.json
+08/02/2019 17:42:24  Successfully saved the app inventory to file
+08/02/2019 18:26:15  Activity ID: 329559af-c4ae-4045-bfd0-77ec469d2371
+08/02/2019 18:26:15  Starting background task AppEnumerationBackgroundTask
+08/02/2019 18:26:15  Starting the app enumeration in a background task
+08/02/2019 18:26:15  GetPublicModernApps.Start[11]
+08/02/2019 18:26:15  App Version: 1.1903.1582.0
+08/02/2019 18:26:16  GetPublicModernApps.Stop[1249]
+08/02/2019 18:26:18  App enumeration complete, saving contents to disk. Modern[43] Inventory[0] Broker[102]
+08/02/2019 18:26:18  Saving app inventory to file
+08/02/2019 18:26:18  App inventory file already exists, creating temp file: 31122ddc-813a-4c42-a60a-1c8af5df4c3b.json
+08/02/2019 18:26:18  Swaping existing file with temp file: 31122ddc-813a-4c42-a60a-1c8af5df4c3b.json
+08/02/2019 18:26:18  Successfully saved the app inventory to file
